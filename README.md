@@ -48,7 +48,7 @@ So far, the Bakery NFTs are currently integrated with:
 
 Each application that we integrate our NFTs with needs to know whether or not a user has a valid NFT to grant them access to locked content. For the applications to know this, they simply read a keccak256 signature from the relevant Ethereum address once connected to see if they have the token, and grant access if so. This process is completely secure, takes seconds to do, and does not incur gas fees!
 
-![](.gitbook/assets/member.jpg)
+![](.gitbook/assets/chrome\_2V4pgEEMnY.png)
 
 #### **The best part about all of this?** <a href="#features" id="features"></a>
 
