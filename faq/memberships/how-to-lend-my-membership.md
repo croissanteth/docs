@@ -1,6 +1,6 @@
 ---
 description: This function can optionally be called by the owner of a specific BakeryNFT.
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
