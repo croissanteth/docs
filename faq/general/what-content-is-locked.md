@@ -1,6 +1,6 @@
 # 🥨 What content is locked?
 
-1. [bakery.fyi](https://bakery.fyi)
+1. [pastry.xyz](https://pastry.xyz)
 
 **LOCKED CATEGORIES:**
 
