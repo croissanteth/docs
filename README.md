@@ -17,7 +17,7 @@ The BakeryDAO is a platform-less community powered by web 3.0. Using a unique mo
 
 Holders of Bakery NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs may even entitle some users to a portion of revenue generated.
 
-![](.gitbook/assets/monke.png)
+![](.gitbook/assets/IMG\_8438.PNG)
 
 The goal with this is to build up a powerful group of researchers, builders, and thought leaders with the help of digital ownership and crypto-economic incentives!
 
