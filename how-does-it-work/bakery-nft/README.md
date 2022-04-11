@@ -62,7 +62,7 @@ The magic all happens in this one line of code where it calls the `getHasValidKe
 const hasValidKey = await lockContract.getHasValidKey(userAddress)
 ```
 
-In addition to all of this, the Bakery plans to award these token holders with their own BakeryDAO ENS subdomain. This will later be used on the [bakery.fyi](https://bakery.fyi) website where you will have specific permissions only when connected with a valid Ethereum wallet. These can be permissions such as drafting your own post, editing an existing research report, and much more to be announced on a later date...
+In addition to all of this, the Bakery plans to award these token holders with their own BakeryDAO ENS subdomain. This will later be used on the [https://pastry.xyz/](https://pastry.xyz) website where you will have specific permissions only when connected with a valid Ethereum wallet. These can be permissions such as drafting your own post, editing an existing research report, and much more to be announced on a later date...
 
 There will only be 2,222 BakeryDAO tokens. They are **not** live yet, but once they are they will be only for the finest of pastries. The Bakery plans to allocate the majority of the supply to the best subscribers of the Bakery NFTs, who have proved their dedication to the BakeryDAO since the very beginning.
 
