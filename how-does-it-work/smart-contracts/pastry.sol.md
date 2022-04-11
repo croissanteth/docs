@@ -2,7 +2,7 @@
 description: >-
   The BakeryDAO VIP members contract, which offers a limited supply of custom
   pastries which have unlimited access to the platform(s).
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 

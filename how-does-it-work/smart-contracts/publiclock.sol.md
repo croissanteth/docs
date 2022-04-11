@@ -2,7 +2,7 @@
 description: >-
   A solidity smart contract for memberships as NFTs! Read the documents below if
   you're a developer who's interested in how each of the functions work.
-cover: ../../.gitbook/assets/bakerynft.png
+cover: ../../.gitbook/assets/bakerydaoyt.png
 coverY: 0
 ---
 
