@@ -2,7 +2,7 @@
 description: >-
   How does a wallet verify if an address is determined valid for a membership
   inside of the BakeryDAO?
-cover: ../.gitbook/assets/bakerydaoyt.png
+cover: ../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
