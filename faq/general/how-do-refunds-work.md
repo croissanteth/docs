@@ -2,7 +2,7 @@
 description: >-
   Thanks to the unique features of web3, we are able to offer a built-in refund
   mechanism, within a specific timeframe of the membership.
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
