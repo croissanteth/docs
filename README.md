@@ -3,7 +3,7 @@ description: >-
   Looking for how to begin on your journey with the BakeryDAO? You're in the
   right place. The following is an in-depth startup guide to the pastry
   ecosystem.
-cover: .gitbook/assets/Croi.svg
+cover: .gitbook/assets/bakerynft.png
 coverY: 0
 ---
 

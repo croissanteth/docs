@@ -35,8 +35,8 @@
 
 ## ⚙ Integrations
 
-* [👉 Bakery.fyi](integrations/bakery.fyi/README.md)
-  * [🔌 WP-Plugin](integrations/bakery.fyi/wp-plugin.md)
+* [👉 pastry.xyz](integrations/pastry.xyz/README.md)
+  * [🔌 WP-Plugin](integrations/pastry.xyz/wp-plugin.md)
 * [🤖 Discord](integrations/discord/README.md)
   * [⚔ Swordy Bot](integrations/discord/swordy-bot.md)
   * [🏫 Guild xyz](integrations/discord/guild-xyz.md)
