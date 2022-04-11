@@ -10,7 +10,7 @@ coverY: 0
 
 Start right away by visiting: [The Bake Community](https://bake.community) on Discourse. As a first time visitor, the page will look something like this:
 
-![](<../.gitbook/assets/image (7).png>)
+![](<../.gitbook/assets/image (7) (1).png>)
 
 In the top right corner, you’ll see options to login or sign up for the site to begin posting. Sign up here or login to your existing discourse account to continue.
 

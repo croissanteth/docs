@@ -8,7 +8,7 @@ coverY: 0
 
 # ✅ Authentification
 
-![Existing Member POV](../.gitbook/assets/member.jpg)
+![](<../.gitbook/assets/image (7).png>)
 
 The Bakery uses a paywall which embeds our locks through NFTs on our website via JavaScript APIs, as well as provides a simple interface for consumers to purchase corresponding NFTs. The approach was similar to the frequent **OAuth** & **OpenId Connect** flows, so that other applications who only need to _know_ of the user's address do not have to worry about handling web3 providers, while still being able to identity users. For this, we found it useful to build "authentication" URLs with a **redirect scheme** that allows even native applications to easily identify the user's address.
 
