@@ -9,7 +9,7 @@ Want to start customizing profiles for the BakeryDAO? Once you visit a page on t
 
 The login buttons are located in numerous places across the site, but if you're ever unsure of where to find them, just head over to the Chef's Menu section of the page. All articles in this category have a login button placed conveniently at the top.
 
-![](https://bakery.fyi/wp-content/uploads/2022/01/login.jpg)
+![](../../.gitbook/assets/chrome\_MK9ohkvO67.png)
 
 Upon clicking login you will be temporarily redirected to a login page, where you can login with your email address, username, or Ethereum address. When you connect your Ethereum wallet here, you may be asked to sign a transaction if you are a first time user. This does not incur gas fees, and on the back-end creates an account on the site for your wallet.
 
