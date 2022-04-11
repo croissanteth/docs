@@ -27,7 +27,7 @@ So far, the Bakery NFTs are currently integrated with:
 
 | MAINNET                                                | OPTIMISM                                       | ARBITRUM      |
 | ------------------------------------------------------ | ---------------------------------------------- | ------------- |
-| [bakery.fyi](https://bakery.fyi)                       | [bakery.fyi](https://bakery.fyi)               | (coming soon) |
+| [https://pastry.xyz/](https://pastry.xyz)              | [https://pastry.xyz/](https://pastry.xyz)      | (coming soon) |
 | [discord](https://discord.gg/bakerydao)                | [discord](https://discord.gg/bakerydao)        | (coming soon) |
 | [discourse](https://bake.community)                    | (coming soon)                                  | (coming soon) |
 | [newsletter](https://bakerydao.me/newsletter/)         | [newsletter](https://bakerydao.me/newsletter/) | (coming soon) |
