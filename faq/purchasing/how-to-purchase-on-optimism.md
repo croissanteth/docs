@@ -1,6 +1,6 @@
 ---
 description: This is a page for the more-optimistic pastries (;
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 

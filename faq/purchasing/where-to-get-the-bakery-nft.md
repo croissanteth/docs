@@ -2,7 +2,7 @@
 description: >-
   Follow any one of the links below for an explanation on how to get the
   BakeryNFT on their associated platforms
-cover: ../../.gitbook/assets/bakerynft.png
+cover: ../../.gitbook/assets/bakerydaoyt.png
 coverY: 0
 ---
 
