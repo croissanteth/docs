@@ -12,9 +12,9 @@ The Bakery DAO is a collective of anonymous crypto enthusiasts, researchers, and
 
 Our NFTs are currently integrated with:
 
-1. [bakery.fyi](https://bakery.fyi)&#x20;
+1. [https://pastry.xyz/](https://pastry.xyz)
 
-![BakeryDAO Website](<../../.gitbook/assets/sitee (1).jpg>)
+![](../../.gitbook/assets/chrome\_zUFigFgSf6.png)
 
 2\. [discord](https://discord.gg/bakerydao)
 
