@@ -1,6 +1,6 @@
 ---
 description: A quick-start page for getting access to the entire pastry ecosystem.
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
