@@ -1,6 +1,6 @@
 ---
 description: Serving up DeFi... One breadcrumb at a time!
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
