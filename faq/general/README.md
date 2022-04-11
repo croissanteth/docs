@@ -2,7 +2,7 @@
 description: >-
   Learn the basics about the BakeryDAO, and see the most frequently asked
   questions about the ecosystem below...
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
