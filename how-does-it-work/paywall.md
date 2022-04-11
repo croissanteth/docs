@@ -52,7 +52,7 @@ For example; metadata inputs can be generated and requested upon purchase of the
 
 The BakeryDAO uses this to customize our checkout flow on the newsletter, prompting users to enter their email address before they are able to purchase or sign up.
 
-![Email Address Sign Up](../.gitbook/assets/imgg.png)
+![](../.gitbook/assets/chrome\_T7UA0OUXy9.png)
 
 The input here is secured cryptographically using keccak256 to convert inputs into a unique 32 byte hash. From there, the data is only accessible to the contract owner for purposes of sending out the newsletter.
 
