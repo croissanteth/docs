@@ -6,7 +6,7 @@ coverY: 0
 
 # ✍ What is the BakeryDAO?
 
-![The Bakery](<../../.gitbook/assets/hat (1).png>)
+![](../../.gitbook/assets/chrome\_LKjKOoybUH.png)
 
 The Bakery DAO is a collective of anonymous crypto enthusiasts, researchers, and writers dedicated to finding the latest alpha. Through the use of NFTs, the Bakery DAO has created an ecosystem that aligns community and creator interests through crypto economic incentives across our platforms.
 
