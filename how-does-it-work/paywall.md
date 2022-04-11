@@ -2,7 +2,7 @@
 description: >-
   A light-weight interface for customizing input, specific parameters on NFT
   purchase, and other cool features...
-cover: ../.gitbook/assets/bakerydaoyt.png
+cover: ../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
