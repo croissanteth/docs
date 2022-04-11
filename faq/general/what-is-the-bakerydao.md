@@ -18,11 +18,11 @@ Our NFTs are currently integrated with:
 
 2\. [discord](https://discord.gg/bakerydao)
 
-![BakeryDAO Discord](<../../.gitbook/assets/disc (1).jpg>)
+![](../../.gitbook/assets/Discord\_HeONEga5kD.png)
 
 3\. [discourse](https://bake.community)
 
-![BakeryDAO Discourse](../../.gitbook/assets/discoursee.png)
+![](../../.gitbook/assets/chrome\_F507bXeQ7Y.png)
 
 4\. [newsletter](https://bakerydao.me/newsletter)
 
