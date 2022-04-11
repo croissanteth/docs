@@ -8,7 +8,7 @@ coverY: 0
 
 # 🎁 Paywall
 
-![BakeryDAO Paywall](../.gitbook/assets/paywalll.jpg)
+![](../.gitbook/assets/chrome\_HP53N9iOdr.png)
 
 The paywall is a web application that provides a user interface allowing people to purchase keys to given locks and subsequently trigger certain behavior based on visitors having keys at the time of page visit. It can be embedded on any web page or inside web views.
 
