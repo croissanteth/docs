@@ -2,7 +2,7 @@
 description: >-
   A fully-customizable checkout url that anyone can generate and get rewarded
   instantly for attracting new members to the BakeryDAO.
-cover: ../.gitbook/assets/bakerynft.png
+cover: ../.gitbook/assets/bakerydaoyt.png
 coverY: 0
 ---
 

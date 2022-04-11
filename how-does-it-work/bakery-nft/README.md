@@ -2,7 +2,7 @@
 description: >-
   The BakeryDAO features several NFTs which represent access to the BakeryDAO...
   One of the memberships has an expiration, the other doesn't.
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
