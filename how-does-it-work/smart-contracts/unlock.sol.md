@@ -1,6 +1,6 @@
 ---
 description: The "Unlock.sol" contract and how its used for the Bakery
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 

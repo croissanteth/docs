@@ -2,7 +2,7 @@
 description: >-
   An overview of the BakeryDAO smart contracts and their purposes within the
   greater pastry ecosystem.
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
