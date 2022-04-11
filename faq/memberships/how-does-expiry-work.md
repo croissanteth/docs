@@ -1,6 +1,6 @@
 ---
 description: Some of the BakeryNFTs expire... Let's have a look at how that works...
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
