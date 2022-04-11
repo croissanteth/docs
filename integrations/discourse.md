@@ -30,6 +30,6 @@ Once connected, you’ll be able to complete the purchase by selecting “Wallet
 
 Congratulations! You are now a member of the BakeryDAO and can benefit from all of its features! Members will be granted full access to posting on the community-powered forum for the BakeryDAO. It will look something like this:
 
-![](<../.gitbook/assets/image (9).png>)
+![](<../.gitbook/assets/image (9) (1).png>)
 
 If you have any questions, feel free to ask the administrators on any of the platforms we are integrated with!

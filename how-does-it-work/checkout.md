@@ -8,7 +8,7 @@ coverY: 0
 
 # 🛒 Checkout
 
-![BakeryDAO Paywall](../.gitbook/assets/paywalll.jpg)
+![](<../.gitbook/assets/image (9).png>)
 
 Our checkout can easily be integrated and configured in the way the user sees fit, and they can users even generate their own 'referral' links to advertise content locked behind the BakeryNFTs, and get a small percent of each purchase through their URL.
 
@@ -52,6 +52,6 @@ The `paywallConfig` is a JSON object which includes a set of customizations for 
 
 Here are some of our generated URL's (thrown through a url shortener to look prettier), which each serve as paywalls to the BakeryNFT, but have different behaviors including the redirect link, metadata inputs (for newsletter), and logos to display.
 
-|                   WEBSITE                  |                  NEWSLETTER                  |                  DISCORD                 |
-| :----------------------------------------: | :------------------------------------------: | :--------------------------------------: |
-| [BAKERY.FYI](https://bakerydao.me/website) | [SUBSCRIBE](https://bakerydao.me/newsletter) | [CHAT NOW](https://bakerydao.me/discord) |
+|                  WEBSITE                  |                  NEWSLETTER                  |                  DISCORD                 |
+| :---------------------------------------: | :------------------------------------------: | :--------------------------------------: |
+| [https://pastry.xyz/](https://pastry.xyz) | [SUBSCRIBE](https://bakerydao.me/newsletter) | [CHAT NOW](https://bakerydao.me/discord) |
