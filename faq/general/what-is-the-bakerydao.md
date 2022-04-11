@@ -26,7 +26,7 @@ Our NFTs are currently integrated with:
 
 4\. [newsletter](https://bakerydao.me/newsletter)
 
-![BakeryDAO Newsletter](../../.gitbook/assets/newsl.png)
+![](<../../.gitbook/assets/image (9).png>)
 
 5\. [telegram](https://alpha.guild.xyz/bakerydao-telegram)
 

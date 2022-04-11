@@ -22,7 +22,7 @@ It will look something like this:
 
 From here, connect to you Ethereum wallet and continue with the purchase of the BakeryNFT in you wallet.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (1).png>)
 
 Once connected, you’ll be able to complete the purchase by selecting “Wallet,” and confirming the prompt in your Ethereum wallet.
 
@@ -30,6 +30,6 @@ Once connected, you’ll be able to complete the purchase by selecting “Wallet
 
 Congratulations! You are now a member of the BakeryDAO and can benefit from all of its features! Members will be granted full access to posting on the community-powered forum for the BakeryDAO. It will look something like this:
 
-![](<../.gitbook/assets/image (9) (1).png>)
+![](<../.gitbook/assets/image (9) (1) (1).png>)
 
 If you have any questions, feel free to ask the administrators on any of the platforms we are integrated with!
