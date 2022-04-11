@@ -1,6 +1,6 @@
 ---
 description: (WORK IN PROGRESS)
-cover: ../.gitbook/assets/bakerydaoyt.png
+cover: ../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 

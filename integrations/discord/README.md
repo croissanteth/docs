@@ -2,7 +2,7 @@
 description: >-
   The following article will give you an in depth tutorial on how to unlock
   access to the Bakery NFT discord using Unlock Protocol.
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 

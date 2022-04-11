@@ -2,7 +2,7 @@
 description: >-
   A Discord bot which makes it easy to lock special channels and permissions to
   only holders of a specific NFT.
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 

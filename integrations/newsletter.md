@@ -2,7 +2,7 @@
 description: >-
   Hello pastry! Wanting to gain access to the Chef’s Newsletter for monthly
   in-depth write ups on the latest news in DeFi? Look no further.
-cover: ../.gitbook/assets/bakerydaoyt.png
+cover: ../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 

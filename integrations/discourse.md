@@ -2,7 +2,7 @@
 description: >-
   Interested in viewing the latest topics in the BakeryDAO, and participating in
   governance proposals + discussions? You’re in the right place!
-cover: ../.gitbook/assets/bakerydaoyt.png
+cover: ../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
