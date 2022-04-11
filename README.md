@@ -13,7 +13,7 @@ coverY: 0
 
 The BakeryDAO is a platform-less community powered by web 3.0. Using a unique model different Chef's have cooked up, Bakery NFTs act as memberships on the blockchain. These tokens can grant access to many different features across any applications we define for them, and it has all been built to be extremely user-friendly.
 
-![](.gitbook/assets/ezgif.com-gif-maker.gif)
+![](<.gitbook/assets/disgif (1).gif>)
 
 Holders of Bakery NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs may even entitle some users to a portion of revenue generated.
 
