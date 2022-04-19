@@ -12,9 +12,7 @@ coverY: 0
 
 The Bakery uses a paywall which embeds our locks through NFTs on our website via JavaScript APIs, as well as provides a simple interface for consumers to purchase corresponding NFTs. The approach was similar to the frequent **OAuth** & **OpenId Connect** flows, so that other applications who only need to _know_ of the user's address do not have to worry about handling web3 providers, while still being able to identity users. For this, we found it useful to build "authentication" URLs with a **redirect scheme** that allows even native applications to easily identify the user's address.
 
-Once the user has signed the message, they are optionally redirected back to the application and the redirect URL includes an additional `code` query string that can be decoded and parsed in order to retrieve all the user's info.
-
-![](../.gitbook/assets/sign.png)
+Once the user has signed the message, they are optionally redirected back to the application and the redirect URL includes an additional `code` query string that can be decoded and parsed in order to retrieve all the user's info.![](../.gitbook/assets/EBB27864-04B7-4DD3-87AC-BDEB17712FEE.jpeg)
 
 ## Sign-in with Ethereum
 
@@ -31,10 +29,8 @@ In many cases, an application does not need a full "web3" provider, but just a w
 
 ### Back-end Integrations
 
+![](../.gitbook/assets/EBB27864-04B7-4DD3-87AC-BDEB17712FEE.jpeg)
+
 The platforms relevant to the Bakery NFT are even "baked in" on the server side, to add that extra layer of security. On the website, when a user connects to their Ethereum wallet, it will create an account for them that they can log in with the same Ethereum wallet whenever they please!
-
-![](<../.gitbook/assets/wordpress (1).jpg>)
-
-If they then purchase, or are already a member of the BakeryDAO, the server will change their role on the site accordingly, deciding whether or not they should have access to the locked pages or not after!
 
 This allows for a seamless UX.
