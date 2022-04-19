@@ -67,9 +67,9 @@ Here are our current integrations:
 |    **POLYGON (30-DAY)**    |    [0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485](https://polygonscan.com/address/0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485)    |
 | **BAKERY DAO (NO EXPIRY)** |                                                       **TO BE ANNOUNCED**                                                      |
 
-Each application that we integrate our NFTs with needs to know whether or not a user has a valid NFT to grant them access to locked content. For the applications to know this, they simply read a keccak256 signature from the relevant Ethereum address once connected to see if they have the token, and grant access if so. This process is completely secure, takes seconds to do, and does not incur gas fees!
+For our applications to determine whether a user is a valid member of the Bakery or not, we simply require a keccak256 signature from the users Ethereum address, and the user is granted access and redirected back to the relevant URL if they have a valid membership. This process is completely secure, takes seconds to do, **and does not incur gas fees**!
 
-![](.gitbook/assets/chrome\_2V4pgEEMnY.png)
+![Bakery DAO Checkout](.gitbook/assets/chrome\_2V4pgEEMnY.png)
 
 #### **The best part about all of this?** <a href="#features" id="features"></a>
 
@@ -81,15 +81,9 @@ Each application that we integrate our NFTs with needs to know whether or not a 
 * There are no third-party processing fees
 * Infinite number of future integrations to await
 
-**NFTs are far more than art, and we hope that the Bakery DAO serves as a great example for that fact.**
+**NFTs are far more than art, and we hope that the Bakery DAO serves as a great example of this fact**
 
-The BakeryDAO effectively token-gates special research content (and alpha) on certain pages across the website, secret discord channels, community-powered forums, newsletters, videos, Shopify, LAND in Decentraland, airdrops, and much more behind NFTs. This is in hopes to gather the best researchers, builders, and doers in DeFi.
-
-### TRY IT NOW!
-
-{% embed url="https://codepen.io/croissantt/pen/mdqWBPB" %}
-
-Do you think you have what it takes?
+## Do you think you have what it takes?
 
 ![30-DAY SUBSCRIPTION](<.gitbook/assets/30-DAY BLUE.gif>)
 
