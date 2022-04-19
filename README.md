@@ -29,7 +29,9 @@ They have an unlimited supply, are available on demand, but must be renewed in o
 
 ![](<.gitbook/assets/Untitled design (3).png>)
 
-Next, we have the Pastry VIP NFTs. These are non-expiring, exclusive pastry NFTs that are the rarest of them all! They have a limited supply of 2,222 tokens, and will be airdropped to the most active pastries on our platforms once officially launched. VIP pastries will be able to earn retroactive rewards, vote on different system parameters, and benefit from the content provided in the Bakery DAO, forever!
+Next, we have the Pastry VIP NFTs. These are non-expiring, exclusive pastry NFTs that are the rarest of them all!&#x20;
+
+They have a limited supply of 2,222 tokens, and will be airdropped to the most active pastries on our platforms once officially launched. VIP pastries will be able to earn retroactive rewards, vote on different system parameters, and benefit from the content provided in the Bakery DAO, forever!
 
 ![](<.gitbook/assets/Untitled design (2).png>)
 
@@ -67,7 +69,9 @@ Here are our current integrations:
 |    **POLYGON (30-DAY)**    |    [0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485](https://polygonscan.com/address/0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485)    |
 | **BAKERY DAO (NO EXPIRY)** |                                                       **TO BE ANNOUNCED**                                                      |
 
-For our applications to determine whether a user is a valid member of the Bakery or not, we simply require a keccak256 signature from the users Ethereum address, and the user is granted access and redirected back to the relevant URL if they have a valid membership. This process is completely secure, takes seconds to do, **and does not incur gas fees**!
+For our applications to determine whether a user is a valid member of the Bakery or not, we simply require a keccak256 signature from the users Ethereum address, and the user is granted access and redirected back to the relevant URL if they have a valid membership.&#x20;
+
+This process is completely secure, takes seconds to do, **and does not incur gas fees**!
 
 ![Bakery DAO Checkout](.gitbook/assets/chrome\_2V4pgEEMnY.png)
 
