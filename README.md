@@ -11,7 +11,7 @@ coverY: 0
 
 ## BakeryDAO <a href="#bakerydao" id="bakerydao"></a>
 
-The BakeryDAO is a platform-less community powered by web 3.0. Using a unique model different Chef's have cooked up, Bakery NFTs act as memberships on the blockchain. These tokens can grant access to many different features across any applications we define for them, and it has all been built to be extremely user-friendly.
+The Bakery is a decentralized community powered by web 3.0. Pastry NFTs act as "platform-less" memberships on the blockchain, granting members access to more than seven different applications for the Bakery. Using cryptographic signatures + a bit of web3 magic, we provide exclusive DeFi research.
 
 ![](<.gitbook/assets/disgif (1).gif>)
 
@@ -25,17 +25,17 @@ Our community will be inclined to share content and help research, while the Che
 
 So far, the Bakery NFTs are currently integrated with:
 
-| MAINNET                                                | OPTIMISM                                       | ARBITRUM      |
-| ------------------------------------------------------ | ---------------------------------------------- | ------------- |
-| [https://pastry.xyz/](https://pastry.xyz)              | [https://pastry.xyz/](https://pastry.xyz)      | (coming soon) |
-| [discord](https://discord.gg/bakerydao)                | [discord](https://discord.gg/bakerydao)        | (coming soon) |
-| [discourse](https://bake.community)                    | (coming soon)                                  | (coming soon) |
-| [newsletter](https://bakerydao.me/newsletter/)         | [newsletter](https://bakerydao.me/newsletter/) | (coming soon) |
-| [telegram](https://alpha.guild.xyz/bakerydao-telegram) | (coming soon)                                  | (coming soon) |
-| shopify                                                | shopify                                        | (coming soon) |
-| snapshot                                               | snapshot                                       | (coming soon) |
-| land                                                   | land                                           | (coming soon) |
-| notion                                                 | notion                                         | (coming soon) |
+| MAINNET                                                | OPTIMISM                                       | POLYGON                                       |
+| ------------------------------------------------------ | ---------------------------------------------- | --------------------------------------------- |
+| [https://pastry.xyz/](https://pastry.xyz)              | [https://pastry.xyz/](https://pastry.xyz)      | [https://pastry.xyz](https://pastry.xyz)      |
+| [discord](https://discord.gg/bakerydao)                | [discord](https://discord.gg/bakerydao)        | [discord](https://discord.gg/bakerydao)       |
+| [discourse](https://bake.community)                    | (coming soon)                                  | (coming soon)                                 |
+| [newsletter](https://bakerydao.me/newsletter/)         | [newsletter](https://bakerydao.me/newsletter/) | [newsletter](https://bakerydao.me/newsletter) |
+| [telegram](https://alpha.guild.xyz/bakerydao-telegram) | (coming soon)                                  | (coming soon)                                 |
+| [shopify](https://shop.pastry.xyz)                     | [shopify](https://shop.pastry.xyz)             | (coming soon)                                 |
+| snapshot                                               | snapshot                                       | (coming soon)                                 |
+| land                                                   | land                                           | (coming soon)                                 |
+| notion                                                 | notion                                         | (coming soon)                                 |
 
 #### **Deployments** <a href="#deployments" id="deployments"></a>
 
@@ -43,7 +43,7 @@ So far, the Bakery NFTs are currently integrated with:
 | :------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
 |    **MAINNET (30-DAY)**    |      [0x61Cc42C66BA9Df72bF6DA89Fcd57215965f74005](https://etherscan.io/address/0x61Cc42C66BA9Df72bF6DA89Fcd57215965f74005)     |
 |    **OPTIMISM (30-DAY)**   | [0x73fc36bA5684655807F60a6437463cC527f50027](https://optimistic.etherscan.io/token/0x73fc36bA5684655807F60a6437463cC527f50027) |
-|    **ARBITRUM (30-DAY)**   |                                                         **COMING SOON**                                                        |
+|    **POLYGON (30-DAY)**    |    [0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485](https://polygonscan.com/address/0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485)    |
 | **BAKERY DAO (NO EXPIRY)** |                                                       **TO BE ANNOUNCED**                                                      |
 
 Each application that we integrate our NFTs with needs to know whether or not a user has a valid NFT to grant them access to locked content. For the applications to know this, they simply read a keccak256 signature from the relevant Ethereum address once connected to see if they have the token, and grant access if so. This process is completely secure, takes seconds to do, and does not incur gas fees!
