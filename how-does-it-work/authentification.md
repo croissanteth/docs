@@ -18,6 +18,8 @@ Once the user has signed the message, they are optionally redirected back to the
 
 In many cases, an application does not need a full "web3" provider, but just a way to identify the user's address. Using the checkout flow mentioned above it allows any application to easily identify a given user by requiring them to sign a message. The checkout is based on the [EIP 4361](https://eips.ethereum.org/EIPS/eip-4361) and that's inspired by the OpenId Connect and OAuth flows where the user is redirected back to the application once they have authenticated.
 
+![](../.gitbook/assets/DAFCEBAF-38FB-40C4-9AEE-B20DCF443ACB.jpeg)
+
 #### Required query parameters:
 
 * `redirect_uri`: the URL toward which the user is redirected once they have connected their wallet and signed the message to authenticate them
