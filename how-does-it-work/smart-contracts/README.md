@@ -16,7 +16,7 @@ Underneath the surface, the [BakeryDAO](https://bakery.fyi) consists of more tha
 
 The main smart contracts in our case are responsible for keeping track of Bakery NFT ownership by address. These are named:
 
-[Unlock.sol](unlock.sol.md) -  a factory contract for deploying memberships with many customization parameters
+Unlock.sol -  a factory contract for deploying memberships with many customization parameters
 
 [PublicLock.sol](publiclock.sol.md) - the BakeryNFTs, which we use for token-gating special research pages on the website, and more!
 
@@ -32,8 +32,8 @@ The main smart contracts in our case are responsible for keeping track of Bakery
 
 Now that we have a basic understanding of what we're dealing with, let's get our hands dirty in some of the important smart contracts that are listed here...
 
-{% content-ref url="unlock.sol.md" %}
-[unlock.sol.md](unlock.sol.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="publiclock.sol.md" %}

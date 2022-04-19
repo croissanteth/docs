@@ -5,7 +5,6 @@
 ## How does it work?
 
 * [🧠 Smart Contracts](how-does-it-work/smart-contracts/README.md)
-  * [🔓 Unlock.sol](how-does-it-work/smart-contracts/unlock.sol.md)
   * [🔑 PublicLock.sol](how-does-it-work/smart-contracts/publiclock.sol.md)
   * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
 * [✅ Authentification](how-does-it-work/authentification.md)
