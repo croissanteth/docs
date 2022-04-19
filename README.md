@@ -23,7 +23,7 @@ Pastries are able to contribute to the research provided in the Bakery, create t
 
 **There are two "tiers" for memberships**.&#x20;
 
-Pastry NFTs are 30-Day membership NFTs, that expire and may be renewed whenever. These are an ERC-721 just like any other NFT, with an added expirationDuration() value we use to determine whether users are valid members or not. Pastry NFTs are deployed on Ethereum, Optimism, and Polygon.
+Pastry NFTs are 30-Day membership NFTs, that expire and may be renewed whenever. These are ERC-721 tokens just like any other NFT, with an added expirationDuration() value we use to determine whether users are valid members or not. Pastry NFTs are deployed on Ethereum, Optimism, and Polygon.
 
 They have an unlimited supply, are available on demand, but must be renewed in order to be a valid pastry!
 
