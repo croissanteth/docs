@@ -29,29 +29,34 @@ They have an unlimited supply, are available on demand, but must be renewed in o
 
 ![](<.gitbook/assets/Untitled design (3).png>)
 
-Next, we have the Pastry VIP NFTs. These are non-expiring, exclusive pastry NFTs that are the rarest of them all!
+Next, we have the Pastry VIP NFTs. These are non-expiring, exclusive pastry NFTs that are the rarest of them all! They have a limited supply of 2,222 tokens, and will be airdropped to the most active pastries on our platforms once officially launched. VIP pastries will be able to earn retroactive rewards, vote on different system parameters, and benefit from the content provided in the Bakery DAO, forever!
 
 ![](<.gitbook/assets/Untitled design (2).png>)
 
+The mechanisms described above allow us to do some incredible things, and our NFTs can be integrated with content across any application the community wishes.&#x20;
+
+Right now, pastries are supported across the "research" section of our website, discord, discourse, cloudflare, telegram, shopify, newsletter, guild, snapshot, wordpress, and many more platforms!
+
 ![](.gitbook/assets/IMG\_8438.PNG)
 
-The goal with this is to build up a powerful group of researchers, builders, and thought leaders with the help of digital ownership and crypto-economic incentives!
+The goal with this is to build up a powerful group of researchers, builders, and thought leaders with the help of digital ownership and crypto-economic incentives. We are putting the power at the hands of the readers.
 
 Our community will be inclined to share content and help research, while the Chef's will be incentivized to create their best work. **It's a powerful combination.**
 
-So far, the Bakery NFTs are currently integrated with:
+Here are our current integrations:
 
-| MAINNET                                                | OPTIMISM                                       | POLYGON                                       |
-| ------------------------------------------------------ | ---------------------------------------------- | --------------------------------------------- |
-| [https://pastry.xyz/](https://pastry.xyz)              | [https://pastry.xyz/](https://pastry.xyz)      | [https://pastry.xyz](https://pastry.xyz)      |
-| [discord](https://discord.gg/bakerydao)                | [discord](https://discord.gg/bakerydao)        | [discord](https://discord.gg/bakerydao)       |
-| [discourse](https://bake.community)                    | (coming soon)                                  | (coming soon)                                 |
-| [newsletter](https://bakerydao.me/newsletter/)         | [newsletter](https://bakerydao.me/newsletter/) | [newsletter](https://bakerydao.me/newsletter) |
-| [telegram](https://alpha.guild.xyz/bakerydao-telegram) | (coming soon)                                  | (coming soon)                                 |
-| [shopify](https://shop.pastry.xyz)                     | [shopify](https://shop.pastry.xyz)             | (coming soon)                                 |
-| snapshot                                               | snapshot                                       | (coming soon)                                 |
-| land                                                   | land                                           | (coming soon)                                 |
-| notion                                                 | notion                                         | (coming soon)                                 |
+| MAINNET                                                | OPTIMISM                                         | POLYGON                                          |
+| ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| [https://pastry.xyz/](https://pastry.xyz)              | [https://pastry.xyz/](https://pastry.xyz)        | [https://pastry.xyz](https://pastry.xyz)         |
+| [discord](https://discord.gg/bakerydao)                | [discord](https://discord.gg/bakerydao)          | [discord](https://discord.gg/bakerydao)          |
+| [discourse](https://bake.community)                    | (coming soon)                                    | (coming soon)                                    |
+| [newsletter](https://bakerydao.me/newsletter/)         | [newsletter](https://bakerydao.me/newsletter/)   | [newsletter](https://bakerydao.me/newsletter)    |
+| [telegram](https://alpha.guild.xyz/bakerydao-telegram) | [telegram](https://guild.xyz/bakerydao-telegram) | [telegram](https://guild.xyz/bakerydao-telegram) |
+| [shopify](https://shop.pastry.xyz)                     | [shopify](https://shop.pastry.xyz)               | [shopify](https://shop.pastry.xyz)               |
+| [snapshot](https://vote.bakery.fyi)                    | [snapshot](https://vote.bakery.fyi)              | [snapshot](https://vote.bakery.fyi)              |
+| land                                                   | land                                             | (coming soon)                                    |
+| [guild](https://guild.xyz/the-pastries)                | [guild](https://guild.xyz/the-pastries)          | [guild](https://guild.xyz/the-pastries)          |
+| [chat](https://chat.pastry.xyz)                        | [chat](https://chat.pastry.xyz)                  | [chat](https://chat.pastry.xyz)                  |
 
 #### **Deployments** <a href="#deployments" id="deployments"></a>
 
