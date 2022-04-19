@@ -8,11 +8,13 @@ coverY: 0
 
 # ✅ Authentification
 
+The Bakery embeds a checkout for our pastry NFT memberships via JavaScript APIs, and we provide a simple interface for consumers to purchase corresponding NFTs, or even generate their own customizable links!
+
 ![](<../.gitbook/assets/image (7).png>)
 
-The Bakery uses a paywall which embeds our locks through NFTs on our website via JavaScript APIs, as well as provides a simple interface for consumers to purchase corresponding NFTs. The approach was similar to the frequent **OAuth** & **OpenId Connect** flows, so that other applications who only need to _know_ of the user's address do not have to worry about handling web3 providers, while still being able to identity users. For this, we found it useful to build "authentication" URLs with a **redirect scheme** that allows even native applications to easily identify the user's address.
+Our approach is similar to the frequently used **OAuth** & **OpenId Connect** flows, so that other applications who only need to _know_ of the user's address do not have to worry about handling web3 providers, while still being able to identity users. For this, we found it useful to build "authentication" URLs with a **redirect scheme** that allows even native applications to easily identify the user's address.
 
-Once the user has signed the message, they are optionally redirected back to the application and the redirect URL includes an additional `code` query string that can be decoded and parsed in order to retrieve all the user's info.![](../.gitbook/assets/EBB27864-04B7-4DD3-87AC-BDEB17712FEE.jpeg)
+Once the user has signed the message, they are optionally redirected back to the application and the redirect URL includes an additional `code` query string that can be decoded and parsed in order to retrieve all the user's info.
 
 ## Sign-in with Ethereum
 
