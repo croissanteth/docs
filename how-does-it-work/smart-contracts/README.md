@@ -32,10 +32,6 @@ Unlock.sol -  a factory contract for deploying memberships with many customizati
 
 Now that we have a basic understanding of what we're dealing with, let's get our hands dirty in some of the important smart contracts that are listed here...
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
 {% content-ref url="publiclock.sol.md" %}
 [publiclock.sol.md](publiclock.sol.md)
 {% endcontent-ref %}
