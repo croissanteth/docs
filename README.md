@@ -13,9 +13,25 @@ coverY: 0
 
 The Bakery is a decentralized community powered by web 3.0. Pastry NFTs act as "platform-less" memberships on the blockchain, granting members access to more than seven different applications for the Bakery. Using cryptographic signatures + a bit of web3 magic, we provide exclusive DeFi research.
 
+Thanks to the simplicity of "Sign In With Ethereum," we are able to do all of this in a UX that is unmatched! Check out an example on our website below:
+
 ![](<.gitbook/assets/disgif (1).gif>)
 
 Holders of Bakery NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs may even entitle some users to a portion of revenue generated.
+
+Pastries are able to contribute to the research provided in the Bakery, create their own profile, build up their reputation, and benefit from their effort.&#x20;
+
+**There are two "tiers" for memberships**.&#x20;
+
+Pastry NFTs are 30-Day membership NFTs, that expire and may be renewed whenever. These are an ERC-721 just like any other NFT, with an added expirationDuration() value we use to determine whether users are valid members or not. Pastry NFTs are deployed on Ethereum, Optimism, and Polygon.
+
+They have an unlimited supply, are available on demand, but must be renewed in order to be a valid pastry!
+
+![](<.gitbook/assets/Untitled design (3).png>)
+
+Next, we have the Pastry VIP NFTs. These are non-expiring, exclusive pastry NFTs that are the rarest of them all!
+
+![](<.gitbook/assets/Untitled design (2).png>)
 
 ![](.gitbook/assets/IMG\_8438.PNG)
 

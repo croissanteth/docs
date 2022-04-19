@@ -1,6 +1,6 @@
 ---
 description: Thanks to Unlock Protocol and KeyPurchaser.sol, this is actually possible!
-cover: ../../.gitbook/assets/bakerydaoyt.png
+cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
