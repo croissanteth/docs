@@ -26,24 +26,24 @@ Our NFTs are currently integrated with:
 
 4\. [newsletter](https://bakerydao.me/newsletter)
 
-![](<../../.gitbook/assets/image (9).png>)
+![](../../.gitbook/assets/2.png)
 
 5\. [telegram](https://alpha.guild.xyz/bakerydao-telegram)
 
-![BakeryDAO Telegram](../../.gitbook/assets/tgg.jpg)
+![](<../../.gitbook/assets/1 (1).png>)
 
 6\. [snapshot](https://vote.bakery.fyi/#/)
 
-![BakeryDAO Governance](../../.gitbook/assets/votee.jpg)
+![](<../../.gitbook/assets/1 (2).png>)
 
-7\. shopify (coming soon)
+7\. [shopify](https://shop.pastry.xyz) (coming soon)
 
-![Demo Shopify](../../.gitbook/assets/demoo.jpg)
+![](../../.gitbook/assets/3AA740DF-1AB9-4383-9E41-8B88B2F5ED17.jpeg)
 
 8\. decentraland (coming soon)
 
 ![Decentraland Demo](../../.gitbook/assets/demooo.gif)
 
-Since the community consists of holders of the Bakery NFT, and grant access to it, they are incentivized to share more alpha in the community, therefore making the NFT memberships more valuable.&#x20;
+Since the community consists of holders of the Pastry NFT, and grant access to it, they are incentivized to share more alpha in the community, therefore making the NFT memberships more valuable.&#x20;
 
-Additionally, since the Chef's, or content creators, are rewarded monetarily for each purchase of an NFT membership, they are incentivized to write better content/research.&#x20;
+Additionally, since the Chefs, or content creators, are rewarded monetarily for each purchase of an NFT membership, they are incentivized to write better content/research.&#x20;
