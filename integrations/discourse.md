@@ -10,7 +10,7 @@ coverY: 0
 
 Start right away by visiting: [The Bake Community](https://bake.community) on Discourse. As a first time visitor, the page will look something like this:
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](../.gitbook/assets/97A59245-0B51-4C06-8EF1-05B09FE37B59.jpeg)
 
 In the top right corner, you’ll see options to login or sign up for the site to begin posting. Sign up here or login to your existing discourse account to continue.
 
@@ -18,18 +18,14 @@ Once logged in or signed up for your account on Discourse, navigate to one of th
 
 It will look something like this:
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/3 (1).png>)
 
 From here, connect to you Ethereum wallet and continue with the purchase of the BakeryNFT in you wallet.
 
-![](<../.gitbook/assets/image (8) (1).png>)
-
-Once connected, you’ll be able to complete the purchase by selecting “Wallet,” and confirming the prompt in your Ethereum wallet.
-
-![](<../.gitbook/assets/image (10).png>)
+![](../.gitbook/assets/4.png)
 
 Congratulations! You are now a member of the BakeryDAO and can benefit from all of its features! Members will be granted full access to posting on the community-powered forum for the BakeryDAO. It will look something like this:
 
-![](<../.gitbook/assets/image (9) (1) (1).png>)
+![](../.gitbook/assets/336E6A98-D93D-4D15-BDC7-6303B912FBF7.jpeg)
 
 If you have any questions, feel free to ask the administrators on any of the platforms we are integrated with!
