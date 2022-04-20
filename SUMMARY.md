@@ -34,7 +34,7 @@
 
 ## ⚙ Integrations
 
-* [👉 pastry.xyz](integrations/pastry.xyz.md)
+* [👉 pastry.xyz](integrations/pastry.xyz/README.md)
 * [🤖 Discord](integrations/discord/README.md)
   * [🏫 Guild xyz](integrations/discord/guild-xyz.md)
 * [🎙 Discourse](integrations/discourse.md)
