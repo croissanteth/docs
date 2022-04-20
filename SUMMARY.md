@@ -59,4 +59,4 @@
 
 * [🗣 I already have the NFT!](troubleshooting/i-already-have-the-nft.md)
 * [🦊 No prompt from Metamask!](troubleshooting/no-prompt-from-metamask.md)
-* [🤺 Swordy bot verification](troubleshooting/swordy-bot-verification.md)
+* [🤺 Guild Bot Verification](troubleshooting/guild-bot-verification.md)
