@@ -18,7 +18,7 @@ Our NFTs are currently integrated with:
 
 2\. [discord](https://discord.gg/bakerydao)
 
-![](../../.gitbook/assets/Discord\_HeONEga5kD.png)
+![](<../../.gitbook/assets/1 (3).png>)
 
 3\. [discourse](https://bake.community)
 

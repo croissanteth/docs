@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
-# 🛒 Checkout
+# 🛒 Purchase Links
 
 ![](<../.gitbook/assets/image (9) (1).png>)
 

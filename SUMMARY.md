@@ -9,7 +9,7 @@
   * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
 * [✅ Authentification](how-does-it-work/authentification.md)
 * [🎁 Paywall](how-does-it-work/paywall.md)
-* [🛒 Purchase Links](how-does-it-work/purchase-links.md)
+* [🛒 Purchase Links](how-does-it-work/checkout.md)
 * [🥖 Bakery NFT](how-does-it-work/bakery-nft/README.md)
   * [Airdrop?](how-does-it-work/bakery-nft/airdrop.md)
 
