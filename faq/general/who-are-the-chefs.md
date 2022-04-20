@@ -1,9 +1,10 @@
 ---
+description: The Chefs at the Bakery
 cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
-# 👨🍳 Who are the Chef's?
+# 👨🍳 Who are the Chefs?
 
 ### Croissant - [@CroissantEth](https://twitter.com/croissanteth)
 

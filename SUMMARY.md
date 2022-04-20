@@ -10,8 +10,8 @@
 * [✅ Authentification](how-does-it-work/authentification.md)
 * [🎁 Paywall](how-does-it-work/paywall.md)
 * [🛒 Purchase Links](how-does-it-work/checkout.md)
-* [🥖 Bakery NFT](how-does-it-work/bakery-nft/README.md)
-  * [Airdrop?](how-does-it-work/bakery-nft/airdrop.md)
+* [🥖 Pastry NFT](how-does-it-work/pastry-nft/README.md)
+  * [Airdrop?](how-does-it-work/pastry-nft/airdrop.md)
 
 ## FAQ
 
@@ -20,7 +20,7 @@
   * [🏆 What are the tiers?](faq/general/what-are-the-tiers.md)
   * [📩 How do I join?](faq/general/how-do-i-join.md)
   * [🤬 How do refunds work?](faq/general/how-do-refunds-work.md)
-  * [👨🍳 Who are the Chef's?](faq/general/who-are-the-chefs.md)
+  * [👨🍳 Who are the Chefs?](faq/general/who-are-the-chefs.md)
   * [🥨 What content is locked?](faq/general/what-content-is-locked.md)
 * [🤩 Memberships](faq/memberships/README.md)
   * [🗞 How to renew memberships?](faq/memberships/how-to-renew-memberships.md)
