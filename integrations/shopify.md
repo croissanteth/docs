@@ -8,4 +8,4 @@ coverY: 0
 
 VIEW THE SOURCE CODE [HERE](https://github.com/pwagner/unlock-shopify-app).
 
-![Unlock Shopify Integration](../.gitbook/assets/demoo.jpg)
+![](../.gitbook/assets/3AA740DF-1AB9-4383-9E41-8B88B2F5ED17.jpeg)
