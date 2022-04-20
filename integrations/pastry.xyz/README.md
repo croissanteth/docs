@@ -8,9 +8,9 @@ description: >-
 
 This is where you get all the alpha. The pastries are cooking up all the breadcrumbs and research from the community and laying them out here on their relevant pages. The catch? In order to view some of this content, visitors of the website must be holder of the Bakery NFTs, otherwise they will be directed to a paywall to continue to view the content.
 
-Visiting the [bakery.fyi](https://bakery.fyi) website, you'll see a navigation page with some categories of content to select from.
+Visiting the [pastry.xyz](https://pastry.xyz) website, you'll see a navigation page with some categories of content to select from.
 
-![BakeryDAO Website](<../../.gitbook/assets/sitee (1).jpg>)
+![](../../.gitbook/assets/EBB27864-04B7-4DD3-87AC-BDEB17712FEE.jpeg)
 
 **Unlocked Categories:**
 
