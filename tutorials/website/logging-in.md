@@ -9,8 +9,6 @@ Until now, it was often quite complicated for applications (both web and native)
 
 The BakeryDAO is proud to be using an implementation of the [Sign-In With Ethereum](https://docs.unlock-protocol.com/unlock/developers/sign-in-with-ethereum) ([EIP4361](https://eips.ethereum.org/EIPS/eip-4361)) specification!
 
-![Connecting to the BakeryDAO](../../.gitbook/assets/sigg.png)
-
-This is the flow that is implemented in the WordPress plugin for The Bakery website.
+![](<../../.gitbook/assets/1 (5).png>)
 
 The flow to be similar to the frequently used **OAuth** & **OpenId Connect** flows, so that other applications who only need to _know_ of the user's address do not have to worry about handling web3 providers, but will still being able to identity users. For this, we make it trivial for applications to build "authentication" URLs with a **redirect scheme** that allows even native application to easily identify the user's address.
