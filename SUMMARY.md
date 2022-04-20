@@ -34,10 +34,8 @@
 
 ## ⚙ Integrations
 
-* [👉 pastry.xyz](integrations/pastry.xyz/README.md)
-  * [🔌 WP-Plugin](integrations/pastry.xyz/wp-plugin.md)
+* [👉 pastry.xyz](integrations/pastry.xyz.md)
 * [🤖 Discord](integrations/discord/README.md)
-  * [⚔ Swordy Bot](integrations/discord/swordy-bot.md)
   * [🏫 Guild xyz](integrations/discord/guild-xyz.md)
 * [🎙 Discourse](integrations/discourse.md)
 * [🔊 Telegram](integrations/telegram.md)

@@ -14,8 +14,8 @@ The [BakeryDAO Discord](https://discord.gg/bakerydao) is our most active communi
 
 All you have to do to get verified is connect your Ethereum wallet, and you will be synced with the proper roles! We use two bots to do this, follow either of these links below for a tutorial on how to do it on each:
 
-{% content-ref url="swordy-bot.md" %}
-[swordy-bot.md](swordy-bot.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="guild-xyz.md" %}
