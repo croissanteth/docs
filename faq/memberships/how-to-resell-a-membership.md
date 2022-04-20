@@ -12,5 +12,6 @@ Because Bakery NFTs use the NFT ERC-721 standard, you can easily sell or transfe
 3. 3.Click the NFT you want to sell, and then click “Sell”
 4. 4.From the next window, you can choose how you would like to resell your NFT. This can be done with either ETH, USDC, or DAI -- and with either a set price or a bidding function.
 
-![](../../.gitbook/assets/opensea.jpg) ![](../../.gitbook/assets/sale.jpg)
+![](../../.gitbook/assets/00749D22-0D2F-4208-B98D-C6CE3ED48F3F.jpeg)
 
+![](../../.gitbook/assets/8BDD801D-565B-4B13-87EB-C2973A34B306.jpeg)
