@@ -10,7 +10,7 @@ coverY: 0
 
 ## Bakery DAO <a href="#bakerydao" id="bakerydao"></a>
 
-The Bakery is an experiment with web 3.0. Pastry NFTs act as "platform-less" memberships on the blockchain, granting members access to more than ten different applications for the Bakery. With the use of cryptographic signatures and a bit of web3 magic, we provide exclusive DeFi research.
+The Bakery is a decentralized community powered by web 3.0. Pastry NFTs act as "platform-less" memberships on the blockchain, granting members access to more than seven different applications for the Bakery. Using cryptographic signatures + a bit of web3 magic, we provide exclusive DeFi research.
 
 Users can post, collaborate, and keep up to date with all of the alpha in DeFi.
 
@@ -18,15 +18,15 @@ Thanks to the simplicity of "Sign In With Ethereum," we are able to do all of th
 
 ![](<.gitbook/assets/disgif (1).gif>)
 
-VIP Pastry NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs may even entitle some users to a portion of revenue generated.
+Holders of Bakery NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs may even entitle some users to a portion of revenue generated.
 
-Pastries are able to contribute to the research provided in the Bakery, create their own profile, build up their attested reputation, and benefit from their effort.&#x20;
+Pastries are able to contribute to the research provided in the Bakery, create their own profile, build up their reputation, and benefit from their effort.&#x20;
 
 **There are two "tiers" for memberships**.&#x20;
 
 Pastry NFTs are 30-Day membership NFTs, that expire and may be renewed whenever. These are ERC-721 tokens just like any other NFT, with an added expirationDuration() value we use to determine whether users are valid members or not. Pastry NFTs are deployed on Ethereum, Optimism, and Polygon.
 
-They have an unlimited supply, are available on demand, but must be renewed in order to be a valid!
+They have an unlimited supply, are available on demand, but must be renewed in order to be a valid pastry!
 
 ![](<.gitbook/assets/Untitled design (3).png>)
 
@@ -70,7 +70,7 @@ Here are our current integrations:
 |    **POLYGON (30-DAY)**    |    [0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485](https://polygonscan.com/address/0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485)    |
 | **BAKERY DAO (NO EXPIRY)** |                                                       **TO BE ANNOUNCED**                                                      |
 
-Our applications we simply require a keccak256 signature from the user's Ethereum address, and then they will be granted access and redirected back to the relevant URL if they are a valid member.
+For our applications to determine whether a user is a valid member of the Bakery or not, we simply require a keccak256 signature from the users Ethereum address, and the user is granted access and redirected back to the relevant URL if they have a valid membership.&#x20;
 
 This process is completely secure, takes seconds to do, **and does not incur gas fees**!
 
