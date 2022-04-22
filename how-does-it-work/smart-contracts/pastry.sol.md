@@ -1,14 +1,14 @@
 ---
 description: >-
-  The BakeryDAO VIP members contract, which offers a limited supply of custom
-  pastries which have unlimited access to the platform(s).
+  The Pastry VIP members contract offers a limited supply of custom pastries
+  which have unlimited access to the platform(s).
 cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
 # 🧁 Pastry.sol
 
-The [pastry.sol](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721) smart contract is the implementation of a standard ERC-721, with a few packs of punches added in functionality later down the line. This is what is used for the BakeryDAO unlimited access NFTs.
+The [pastry.sol](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721) smart contract is the implementation of a standard ERC-721, with a few packs of punches added in functionality later down the line. This is what is used for the BakeryDAO unlimited access NFTs.&#x20;
 
 ![Cloud Croissant](../../.gitbook/assets/croissantt.webp)
 
