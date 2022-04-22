@@ -1,17 +1,18 @@
 ---
 description: >-
-  Looking for how to begin on your journey with the BakeryDAO? You're in the
-  right place. The following is an in-depth startup guide to the pastry
-  ecosystem.
+  Looking for how to begin on your journey with the Bakery? You're in the right
+  place. The following is an in-depth startup guide to the pastry ecosystem.
 cover: .gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
 # 🔥 Getting Started
 
-## BakeryDAO <a href="#bakerydao" id="bakerydao"></a>
+## Bakery DAO <a href="#bakerydao" id="bakerydao"></a>
 
 The Bakery is a decentralized community powered by web 3.0. Pastry NFTs act as "platform-less" memberships on the blockchain, granting members access to more than seven different applications for the Bakery. Using cryptographic signatures + a bit of web3 magic, we provide exclusive DeFi research.
+
+Users can post, collaborate, and keep up to date with all of the alpha in DeFi.
 
 Thanks to the simplicity of "Sign In With Ethereum," we are able to do all of this in a UX that is unmatched! Check out an example on our website below:
 
