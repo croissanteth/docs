@@ -5,7 +5,8 @@
 
 ## 🧁 Bakery DAO
 
-* [Page 1](bakery-dao/page-1.md)
+* [PASTRY NFT](bakery-dao/pastry-nft.md)
+* [PASTRY VIP](bakery-dao/pastry-vip.md)
 
 ## How does it work?
 
