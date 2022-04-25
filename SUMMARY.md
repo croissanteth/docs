@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🔥 Getting Started](README.md)
+* [Overview](overview.md)
 
 ## How does it work?
 
