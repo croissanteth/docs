@@ -10,6 +10,8 @@ coverY: 0
 
 The Bakery DAO is a collective of anonymous crypto enthusiasts, researchers, and writers dedicated to finding the latest alpha. Through the use of NFTs, the Bakery DAO has created an ecosystem that aligns community and creator interests through crypto economic incentives across our platforms.
 
+How is this done? The premise is simple. Each Bakery NFT
+
 Our NFTs are currently integrated with:
 
 1. [https://pastry.xyz/](https://pastry.xyz)

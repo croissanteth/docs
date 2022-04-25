@@ -14,6 +14,7 @@
 * [🛒 Purchase Links](how-does-it-work/checkout.md)
 * [🥖 Pastry NFT](how-does-it-work/pastry-nft/README.md)
   * [Airdrop?](how-does-it-work/pastry-nft/airdrop.md)
+* [Page 1](how-does-it-work/page-1.md)
 
 ## FAQ
 
