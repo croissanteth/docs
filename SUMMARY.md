@@ -4,6 +4,10 @@
 * [Overview](overview.md)
 * [Page 1](page-1.md)
 
+## 🧁 Bakery DAO
+
+* [Page 1](bakery-dao/page-1.md)
+
 ## How does it work?
 
 * [🧠 Smart Contracts](how-does-it-work/smart-contracts/README.md)
