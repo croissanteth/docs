@@ -28,6 +28,7 @@
 ## How does it work?
 
 * [✅ Members](how-does-it-work/members.md)
+* [Page 2](how-does-it-work/page-2.md)
 * [🎁 Paywall](how-does-it-work/paywall.md)
 * [🛒 Purchase Links](how-does-it-work/checkout.md)
 * [🥖 Pastry NFT](how-does-it-work/pastry-nft/README.md)
@@ -37,6 +38,7 @@
   * [🔑 PublicLock.sol](how-does-it-work/smart-contracts/publiclock.sol.md)
   * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
 * [AUTHENTIFICATION](how-does-it-work/authentification.md)
+* [Page 3](how-does-it-work/page-3.md)
 
 ## FAQ
 
