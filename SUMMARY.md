@@ -31,19 +31,20 @@
 
 ## TECHNICAL
 
-* [SIGN IN WITH ETHEREUM](how-does-it-work/sign-in-with-ethereum.md)
 * [SMART CONTRACTS](how-does-it-work/smart-contracts/README.md)
+  * [ERC721BalanceOfHook.sol](technical/smart-contracts/erc721balanceofhook.sol.md)
   * [🔑 PublicLock.sol](how-does-it-work/smart-contracts/publiclock.sol.md)
   * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
   * [👾 SDaoRegistrar.sol](how-does-it-work/smart-contracts/sdaoregistrar.sol.md)
   * [💳 KeyPurchaser.sol](technical/smart-contracts/keypurchaser.sol.md)
-* [🛒 CHECKOUT](technical/checkout/README.md)
+* [CHECKOUT](technical/checkout/README.md)
   * [AUTHENTIFICATION](technical/checkout/authentification.md)
 * [✅ Members](how-does-it-work/members.md)
 * [🎁 Paywall](how-does-it-work/paywall.md)
 * [🛒 Purchase Links](how-does-it-work/checkout.md)
 * [🥖 Pastry NFT](how-does-it-work/pastry-nft/README.md)
   * [Airdrop?](how-does-it-work/pastry-nft/airdrop.md)
+* [SIGN IN WITH ETHEREUM](how-does-it-work/sign-in-with-ethereum.md)
 
 ## FAQ
 
