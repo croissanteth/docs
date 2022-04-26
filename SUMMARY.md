@@ -38,7 +38,7 @@
   * [🔑 PublicLock.sol](how-does-it-work/smart-contracts/publiclock.sol.md)
   * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
 * [AUTHENTIFICATION](how-does-it-work/authentification.md)
-* [Page 3](how-does-it-work/page-3.md)
+* [CHECKOUT](<how-does-it-work/checkout (1).md>)
 
 ## FAQ
 
