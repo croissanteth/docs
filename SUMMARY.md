@@ -16,14 +16,14 @@
   * [🔄 0XSPLITS](bakery-dao/integrations/0xsplits.md)
   * [🛍 SHOPIFY](bakery-dao/integrations/shopify.md)
 * [TUTORIALS](bakery-dao/tutorials/README.md)
-  * [LOGGING IN](bakery-dao/tutorials/logging-in.md)
-  * [RENEW PASTRY](bakery-dao/tutorials/renew-pastry.md)
-  * [LEND TIME](bakery-dao/tutorials/lend-time.md)
-  * [OPTIMISM](bakery-dao/tutorials/optimism.md)
-  * [POLYGON](bakery-dao/tutorials/polygon.md)
-  * [REFERRALS](bakery-dao/tutorials/referrals.md)
-  * [REFUNDS](bakery-dao/tutorials/refunds.md)
-  * [SUBDOMAIN](bakery-dao/tutorials/subdomain.md)
+  * [🔌 LOGGING IN](bakery-dao/tutorials/logging-in.md)
+  * [🎁 RENEW PASTRY](bakery-dao/tutorials/renew-pastry.md)
+  * [⏱ LEND TIME](bakery-dao/tutorials/lend-time.md)
+  * [🔴 OPTIMISM](bakery-dao/tutorials/optimism.md)
+  * [🔗 POLYGON](bakery-dao/tutorials/polygon.md)
+  * [🎀 REWARDS](bakery-dao/tutorials/rewards.md)
+  * [⏪ REFUNDS](bakery-dao/tutorials/refunds.md)
+  * [🪅 SUBDOMAIN](bakery-dao/tutorials/subdomain.md)
 
 ## How does it work?
 

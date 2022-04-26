@@ -1,3 +1,3 @@
-# NEWSLETTER
+# 📰 NEWSLETTER
 
 GF

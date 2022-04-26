@@ -1,3 +1,3 @@
-# LEND TIME
+# ⏱ LEND TIME
 
 K
