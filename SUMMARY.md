@@ -11,7 +11,7 @@
 * [INTEGRATIONS](bakery-dao/integrations/README.md)
   * [🍰 PASTRY XYZ](bakery-dao/integrations/pastry-xyz.md)
   * [📰 NEWSLETTER](bakery-dao/integrations/newsletter.md)
-  * [🤖 GUILD](bakery-dao/integrations/guild.md)
+  * [🛡 GUILD](bakery-dao/integrations/guild.md)
   * [🥐 FORUM](bakery-dao/integrations/forum.md)
   * [0XSPLITS](bakery-dao/integrations/0xsplits.md)
   * [SHOPIFY](bakery-dao/integrations/shopify.md)

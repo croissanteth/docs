@@ -1,3 +1,3 @@
-# 🍰 PASTRY XYZ
+# PASTRY XYZ
 
-JJ&#x20;
+JJ

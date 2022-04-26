@@ -1,3 +1,3 @@
-# 🥐 FORUM
+# FORUM
 
-M&#x20;
+M
