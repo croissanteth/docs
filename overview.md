@@ -1,8 +1,11 @@
 ---
+description: Alpha at your fingertips
 layout: landing
 ---
 
 # SYSTEM OVERVIEW
+
+In a space that moves as fast as crypto, it is impossible to stay up to date with all the latest info, let alone find a platform with  . The Bakery DAO is a collective of anonymous crypto enthusiasts, researchers, and writers dedicated to finding the latest alpha.&#x20;
 
 ## **BAKERY DAO**
 
