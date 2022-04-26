@@ -6,7 +6,7 @@ cover: ../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
-# ✅ Authentification
+# ✅ Members
 
 The Bakery embeds a checkout for our pastry NFT memberships via JavaScript APIs, and we provide a simple interface for consumers to purchase corresponding NFTs, or even generate their own customizable links!
 

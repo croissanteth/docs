@@ -6,7 +6,7 @@ cover: ../../.gitbook/assets/bakerynft.png
 coverY: 0
 ---
 
-# 🧠 Smart Contracts
+# SMART CONTRACTS
 
 Although it seems like it's just an innocent little croissant GIF, it is actually a lot more than that on the back-end. We can't just go running and diving in head first without getting at least somewhat familiar with the Bakery...
 
