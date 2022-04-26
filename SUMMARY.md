@@ -15,7 +15,8 @@
   * [FORUM](bakery-dao/integrations/forum.md)
   * [0XSPLITS](bakery-dao/integrations/0xsplits.md)
   * [SHOPIFY](bakery-dao/integrations/shopify.md)
-* [TUTORIALS](bakery-dao/tutorials.md)
+* [TUTORIALS](bakery-dao/tutorials/README.md)
+  * [LOGGING IN](bakery-dao/tutorials/logging-in.md)
 
 ## How does it work?
 
