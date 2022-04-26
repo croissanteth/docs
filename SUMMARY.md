@@ -3,16 +3,16 @@
 * [GETTING STARTED](README.md)
 * [SYSTEM OVERVIEW](overview.md)
 
-## ▫ Bakery DAO
+## Bakery DAO
 
 * [🧁 PASTRY NFT](bakery-dao/pastry-nft.md)
 * [🎇 PASTRY VIP](bakery-dao/pastry-vip.md)
 * [🍨 MINI PASTRY](bakery-dao/mini-pastry.md)
 * [INTEGRATIONS](bakery-dao/integrations/README.md)
-  * [PASTRY XYZ](bakery-dao/integrations/pastry-xyz.md)
-  * [NEWSLETTER](bakery-dao/integrations/newsletter.md)
-  * [GUILD](bakery-dao/integrations/guild.md)
-  * [FORUM](bakery-dao/integrations/forum.md)
+  * [🍰 PASTRY XYZ](bakery-dao/integrations/pastry-xyz.md)
+  * [📰 NEWSLETTER](bakery-dao/integrations/newsletter.md)
+  * [🤖 GUILD](bakery-dao/integrations/guild.md)
+  * [🥐 FORUM](bakery-dao/integrations/forum.md)
   * [0XSPLITS](bakery-dao/integrations/0xsplits.md)
   * [SHOPIFY](bakery-dao/integrations/shopify.md)
 * [TUTORIALS](bakery-dao/tutorials/README.md)

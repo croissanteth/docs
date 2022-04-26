@@ -1,3 +1,3 @@
-# 🍨 MINI PASTRY
+# MINI PASTRY
 
-D&#x20;
+D

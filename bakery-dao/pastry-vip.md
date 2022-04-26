@@ -1,3 +1,3 @@
-# 🎇 PASTRY VIP
+# PASTRY VIP
 
-J&#x20;
+J
