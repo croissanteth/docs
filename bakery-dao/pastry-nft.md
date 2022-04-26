@@ -1,4 +1,4 @@
-# 🧁 PASTRY NFT
+# PASTRY NFT
 
 xxC
 

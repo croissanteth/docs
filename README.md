@@ -7,9 +7,9 @@ coverY: 0
 layout: landing
 ---
 
-# GETTING STARTED
+# 🔥 Getting Started
 
-## Bakery DAO   <a href="#bakerydao" id="bakerydao"></a>
+## Bakery DAO <a href="#bakerydao" id="bakerydao"></a>
 
 The Bakery is an experiment with web 3.0. Pastry NFTs act as "platform-less" memberships on the blockchain, granting members access to more than ten different applications for the Bakery. With the use of cryptographic signatures and a bit of web3 magic, we provide exclusive DeFi research.
 

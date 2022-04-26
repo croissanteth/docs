@@ -6,8 +6,8 @@
 ## ▫ Bakery DAO
 
 * [🧁 PASTRY NFT](bakery-dao/pastry-nft.md)
-* [PASTRY VIP](bakery-dao/pastry-vip.md)
-* [MINI PASTRY](bakery-dao/mini-pastry.md)
+* [🎇 PASTRY VIP](bakery-dao/pastry-vip.md)
+* [🍨 MINI PASTRY](bakery-dao/mini-pastry.md)
 * [INTEGRATIONS](bakery-dao/integrations/README.md)
   * [PASTRY XYZ](bakery-dao/integrations/pastry-xyz.md)
   * [NEWSLETTER](bakery-dao/integrations/newsletter.md)
