@@ -1,3 +1,3 @@
-# THE DAO
+# ⚡ THE DAO
 
 &#x20;

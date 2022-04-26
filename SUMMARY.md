@@ -25,8 +25,9 @@
   * [⏪ REFUNDS](bakery-dao/tutorials/refunds.md)
   * [🪅 SUBDOMAIN](bakery-dao/tutorials/subdomain.md)
 * [GOVERNANCE](bakery-dao/governance/README.md)
-  * [VOTING](bakery-dao/governance/voting.md)
-  * [THE DAO](bakery-dao/governance/the-dao.md)
+  * [⚡ THE DAO](bakery-dao/governance/the-dao.md)
+  * [💡 PROPOSALS](bakery-dao/governance/proposals.md)
+  * [🔮 VOTING](bakery-dao/governance/voting.md)
 
 ## How does it work?
 
