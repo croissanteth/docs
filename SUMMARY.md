@@ -31,14 +31,14 @@
 
 ## TECHNICAL
 
-* [AUTHENTIFICATION](how-does-it-work/authentification.md)
-* [CHECKOUT](<how-does-it-work/checkout (1).md>)
 * [SIGN IN WITH ETHEREUM](how-does-it-work/sign-in-with-ethereum.md)
 * [SMART CONTRACTS](how-does-it-work/smart-contracts/README.md)
   * [🔑 PublicLock.sol](how-does-it-work/smart-contracts/publiclock.sol.md)
   * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
   * [👾 SDaoRegistrar.sol](how-does-it-work/smart-contracts/sdaoregistrar.sol.md)
   * [💳 KeyPurchaser.sol](technical/smart-contracts/keypurchaser.sol.md)
+* [🛒 CHECKOUT](technical/checkout/README.md)
+  * [AUTHENTIFICATION](technical/checkout/authentification.md)
 * [✅ Members](how-does-it-work/members.md)
 * [🎁 Paywall](how-does-it-work/paywall.md)
 * [🛒 Purchase Links](how-does-it-work/checkout.md)
