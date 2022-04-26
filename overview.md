@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # SYSTEM OVERVIEW
 
 {% content-ref url="bakery-dao/pastry-nft.md" %}
