@@ -4,7 +4,7 @@ description: >-
   place. The following is an in-depth startup guide to the pastry ecosystem.
 cover: .gitbook/assets/bakerynft.png
 coverY: 0
-layout: landing
+layout: editorial
 ---
 
 # GETTING STARTED
