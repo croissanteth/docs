@@ -21,7 +21,7 @@
   * [⏱ LEND TIME](bakery-dao/tutorials/lend-time.md)
   * [🔴 OPTIMISM](bakery-dao/tutorials/optimism.md)
   * [🔗 POLYGON](bakery-dao/tutorials/polygon.md)
-  * [🎀 REWARDS](bakery-dao/tutorials/rewards.md)
+  * [🎀 REWARDS](bakery-dao/tutorials/referrals.md)
   * [⏪ REFUNDS](bakery-dao/tutorials/refunds.md)
   * [🪅 SUBDOMAIN](bakery-dao/tutorials/subdomain.md)
 
