@@ -1,3 +1,3 @@
-# 🛡 GUILD
+# GUILD
 
-J&#x20;
+J
