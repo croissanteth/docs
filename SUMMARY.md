@@ -28,7 +28,6 @@
 ## How does it work?
 
 * [✅ Members](how-does-it-work/members.md)
-* [Page 2](how-does-it-work/page-2.md)
 * [🎁 Paywall](how-does-it-work/paywall.md)
 * [🛒 Purchase Links](how-does-it-work/checkout.md)
 * [🥖 Pastry NFT](how-does-it-work/pastry-nft/README.md)
