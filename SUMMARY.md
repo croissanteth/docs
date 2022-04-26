@@ -9,7 +9,7 @@
 * [PASTRY VIP](bakery-dao/pastry-vip.md)
 * [MINI PASTRY](bakery-dao/mini-pastry.md)
 * [APPS](bakery-dao/apps/README.md)
-  * [Page 2](bakery-dao/apps/page-2.md)
+  * [PASTRY XYZ](bakery-dao/apps/pastry-xyz.md)
 
 ## How does it work?
 
