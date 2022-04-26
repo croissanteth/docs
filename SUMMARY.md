@@ -39,6 +39,7 @@
   * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
 * [AUTHENTIFICATION](how-does-it-work/authentification.md)
 * [CHECKOUT](<how-does-it-work/checkout (1).md>)
+* [SIGN IN WITH ETHEREUM](how-does-it-work/sign-in-with-ethereum.md)
 
 ## FAQ
 
