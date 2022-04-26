@@ -15,7 +15,7 @@ The Bakery is an experiment with web 3.0. Pastry NFTs act as "platform-less" mem
 
 Users can post, collaborate, and keep up to date with all of the alpha in DeFi.
 
-Thanks to the simplicity of "Sign In With Ethereum," we are able to do all of this in a UX that is unmatched! Check out an example on our website below:
+Thanks to the simplicity of "Sign In With Ethereum," we are able to do all of this in a UX that is unmatched! Check out an example on our [website](https://pastry.xyz) below:
 
 ![](<.gitbook/assets/disgif (1).gif>)
 
