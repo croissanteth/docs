@@ -5,7 +5,31 @@ layout: landing
 
 # SYSTEM OVERVIEW
 
-In a space that moves as fast as crypto, it is impossible to stay up to date with all the latest info, let alone find a platform with all of it. The Bakery DAO is a collective of anonymous crypto enthusiasts, researchers, and writers dedicated to finding the latest alpha.&#x20;
+In a space that moves as fast as crypto, it is impossible to stay up to date with all the latest info, let alone find a platform with all of it. The Bakery DAO is a collective of anonymous crypto enthusiasts, researchers, and writers dedicated to finding the latest alpha.
+
+How do we do this? Entirely on-chain...
+
+|         TIER        |                                                             ADDRESS                                                            | DURATION |
+| :-----------------: | :----------------------------------------------------------------------------------------------------------------------------: | :------: |
+|  **MAINNET PASTRY** |      [0x61Cc42C66BA9Df72bF6DA89Fcd57215965f74005](https://etherscan.io/address/0x61Cc42C66BA9Df72bF6DA89Fcd57215965f74005)     |  30-DAY  |
+| **OPTIMISM PASTRY** | [0x73fc36bA5684655807F60a6437463cC527f50027](https://optimistic.etherscan.io/token/0x73fc36bA5684655807F60a6437463cC527f50027) |  30-DAY  |
+|  **POLYGON PASTRY** |    [0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485](https://polygonscan.com/address/0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485)    |  30-DAY  |
+|    **PASTRY VIP**   |                                                       **TO BE ANNOUNCED**                                                      |    N/A   |
+
+
+
+| MAINNET                                                | OPTIMISM                                         | POLYGON                                          |
+| ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
+| [https://pastry.xyz/](https://pastry.xyz)              | [https://pastry.xyz/](https://pastry.xyz)        | [https://pastry.xyz](https://pastry.xyz)         |
+| [discord](https://discord.gg/bakerydao)                | [discord](https://discord.gg/bakerydao)          | [discord](https://discord.gg/bakerydao)          |
+| [discourse](https://bake.community)                    | (coming soon)                                    | (coming soon)                                    |
+| [newsletter](https://bakerydao.me/newsletter/)         | [newsletter](https://bakerydao.me/newsletter/)   | [newsletter](https://bakerydao.me/newsletter)    |
+| [telegram](https://alpha.guild.xyz/bakerydao-telegram) | [telegram](https://guild.xyz/bakerydao-telegram) | [telegram](https://guild.xyz/bakerydao-telegram) |
+| [shopify](https://shop.pastry.xyz)                     | [shopify](https://shop.pastry.xyz)               | [shopify](https://shop.pastry.xyz)               |
+| [snapshot](https://vote.bakery.fyi)                    | [snapshot](https://vote.bakery.fyi)              | [snapshot](https://vote.bakery.fyi)              |
+| land                                                   | land                                             | (coming soon)                                    |
+| [guild](https://guild.xyz/the-pastries)                | [guild](https://guild.xyz/the-pastries)          | [guild](https://guild.xyz/the-pastries)          |
+| [chat](https://chat.pastry.xyz)                        | [chat](https://chat.pastry.xyz)                  | [chat](https://chat.pastry.xyz)                  |
 
 ## **BAKERY DAO**
 
