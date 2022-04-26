@@ -3,9 +3,9 @@
 * [GETTING STARTED](README.md)
 * [SYSTEM OVERVIEW](overview.md)
 
-## 🧁 Bakery DAO
+## ▫ Bakery DAO
 
-* [PASTRY NFT](bakery-dao/pastry-nft.md)
+* [🧁 PASTRY NFT](bakery-dao/pastry-nft.md)
 * [PASTRY VIP](bakery-dao/pastry-vip.md)
 * [MINI PASTRY](bakery-dao/mini-pastry.md)
 * [INTEGRATIONS](bakery-dao/integrations/README.md)
@@ -32,7 +32,6 @@
 * [🛒 Purchase Links](how-does-it-work/checkout.md)
 * [🥖 Pastry NFT](how-does-it-work/pastry-nft/README.md)
   * [Airdrop?](how-does-it-work/pastry-nft/airdrop.md)
-* [Page 1](how-does-it-work/page-1.md)
 * [🧠 SMART CONTRACTS](how-does-it-work/smart-contracts/README.md)
   * [🔑 PublicLock.sol](how-does-it-work/smart-contracts/publiclock.sol.md)
   * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
