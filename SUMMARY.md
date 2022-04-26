@@ -23,6 +23,7 @@
   * [POLYGON](bakery-dao/tutorials/polygon.md)
   * [REFERRALS](bakery-dao/tutorials/referrals.md)
   * [REFUNDS](bakery-dao/tutorials/refunds.md)
+  * [SUBDOMAIN](bakery-dao/tutorials/subdomain.md)
 
 ## How does it work?
 
