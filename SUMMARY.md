@@ -27,15 +27,16 @@
 
 ## How does it work?
 
-* [🧠 Smart Contracts](how-does-it-work/smart-contracts/README.md)
-  * [🔑 PublicLock.sol](how-does-it-work/smart-contracts/publiclock.sol.md)
-  * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
 * [✅ Members](how-does-it-work/members.md)
 * [🎁 Paywall](how-does-it-work/paywall.md)
 * [🛒 Purchase Links](how-does-it-work/checkout.md)
 * [🥖 Pastry NFT](how-does-it-work/pastry-nft/README.md)
   * [Airdrop?](how-does-it-work/pastry-nft/airdrop.md)
 * [Page 1](how-does-it-work/page-1.md)
+* [🧠 Smart Contracts](how-does-it-work/smart-contracts/README.md)
+  * [🔑 PublicLock.sol](how-does-it-work/smart-contracts/publiclock.sol.md)
+  * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
+* [AUTHENTIFICATION](how-does-it-work/authentification.md)
 
 ## FAQ
 
