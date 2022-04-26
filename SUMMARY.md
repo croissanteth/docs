@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🔥 Getting Started](README.md)
-* [SYSTEM OVERVIEW](system-overview.md)
+* [🔥 GETTING STARTED](README.md)
+* [SYSTEM OVERVIEW](overview.md)
 
 ## 🧁 Bakery DAO
 
