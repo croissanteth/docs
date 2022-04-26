@@ -18,6 +18,11 @@
 * [TUTORIALS](bakery-dao/tutorials/README.md)
   * [LOGGING IN](bakery-dao/tutorials/logging-in.md)
   * [RENEW PASTRY](bakery-dao/tutorials/renew-pastry.md)
+  * [LEND TIME](bakery-dao/tutorials/lend-time.md)
+  * [OPTIMISM](bakery-dao/tutorials/optimism.md)
+  * [POLYGON](bakery-dao/tutorials/polygon.md)
+  * [REFERRALS](bakery-dao/tutorials/referrals.md)
+  * [REFUNDS](bakery-dao/tutorials/refunds.md)
 
 ## How does it work?
 
