@@ -91,7 +91,7 @@ This process is completely secure, takes seconds to do, **and does not incur gas
 
 ## Do you think you have what it takes?
 
-![30-DAY SUBSCRIPTION](<.gitbook/assets/30-DAY BLUE.gif>)
+![](<.gitbook/assets/TRIAL PASTRY.gif>)
 
 ## Not so fast, anon!
 
