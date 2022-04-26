@@ -32,10 +32,10 @@
 ## TECHNICAL
 
 * [SMART CONTRACTS](how-does-it-work/smart-contracts/README.md)
-  * [ERC721BalanceOfHook.sol](technical/smart-contracts/erc721balanceofhook.sol.md)
   * [🔑 PublicLock.sol](how-does-it-work/smart-contracts/publiclock.sol.md)
   * [🧁 Pastry.sol](how-does-it-work/smart-contracts/pastry.sol.md)
   * [👾 SDaoRegistrar.sol](how-does-it-work/smart-contracts/sdaoregistrar.sol.md)
+  * [🪙 ERC721BalanceOfHook.sol](technical/smart-contracts/erc721balanceofhook.sol.md)
   * [💳 KeyPurchaser.sol](technical/smart-contracts/keypurchaser.sol.md)
 * [CHECKOUT](technical/checkout/README.md)
   * [AUTHENTIFICATION](technical/checkout/authentification.md)

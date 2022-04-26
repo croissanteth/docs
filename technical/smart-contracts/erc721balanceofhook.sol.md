@@ -1,3 +1,3 @@
-# ERC721BalanceOfHook.sol
+# 🪙 ERC721BalanceOfHook.sol
 
 &#x20;
