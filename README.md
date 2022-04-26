@@ -49,28 +49,6 @@ Our community will be inclined to share content and help research, while the Che
 
 Here are our current integrations:
 
-| MAINNET                                                | OPTIMISM                                         | POLYGON                                          |
-| ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| [https://pastry.xyz/](https://pastry.xyz)              | [https://pastry.xyz/](https://pastry.xyz)        | [https://pastry.xyz](https://pastry.xyz)         |
-| [discord](https://discord.gg/bakerydao)                | [discord](https://discord.gg/bakerydao)          | [discord](https://discord.gg/bakerydao)          |
-| [discourse](https://bake.community)                    | (coming soon)                                    | (coming soon)                                    |
-| [newsletter](https://bakerydao.me/newsletter/)         | [newsletter](https://bakerydao.me/newsletter/)   | [newsletter](https://bakerydao.me/newsletter)    |
-| [telegram](https://alpha.guild.xyz/bakerydao-telegram) | [telegram](https://guild.xyz/bakerydao-telegram) | [telegram](https://guild.xyz/bakerydao-telegram) |
-| [shopify](https://shop.pastry.xyz)                     | [shopify](https://shop.pastry.xyz)               | [shopify](https://shop.pastry.xyz)               |
-| [snapshot](https://vote.bakery.fyi)                    | [snapshot](https://vote.bakery.fyi)              | [snapshot](https://vote.bakery.fyi)              |
-| land                                                   | land                                             | (coming soon)                                    |
-| [guild](https://guild.xyz/the-pastries)                | [guild](https://guild.xyz/the-pastries)          | [guild](https://guild.xyz/the-pastries)          |
-| [chat](https://chat.pastry.xyz)                        | [chat](https://chat.pastry.xyz)                  | [chat](https://chat.pastry.xyz)                  |
-
-#### **Deployments** <a href="#deployments" id="deployments"></a>
-
-|                            |                                                             ADDRESS                                                            |
-| :------------------------: | :----------------------------------------------------------------------------------------------------------------------------: |
-|    **MAINNET (30-DAY)**    |      [0x61Cc42C66BA9Df72bF6DA89Fcd57215965f74005](https://etherscan.io/address/0x61Cc42C66BA9Df72bF6DA89Fcd57215965f74005)     |
-|    **OPTIMISM (30-DAY)**   | [0x73fc36bA5684655807F60a6437463cC527f50027](https://optimistic.etherscan.io/token/0x73fc36bA5684655807F60a6437463cC527f50027) |
-|    **POLYGON (30-DAY)**    |    [0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485](https://polygonscan.com/address/0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485)    |
-| **BAKERY DAO (NO EXPIRY)** |                                                       **TO BE ANNOUNCED**                                                      |
-
 Our applications simply require a keccak256 signature from the user's Ethereum address, and then they will be granted access and redirected back to the relevant URL if they are a valid member.
 
 This process is completely secure, takes seconds to do, **and does not incur gas fees**!
