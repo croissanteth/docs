@@ -12,6 +12,7 @@
   * [PASTRY XYZ](bakery-dao/apps/pastry-xyz.md)
   * [NEWSLETTER](bakery-dao/apps/newsletter.md)
   * [GUILD](bakery-dao/apps/guild.md)
+  * [FORUM](bakery-dao/apps/forum.md)
 
 ## How does it work?
 
