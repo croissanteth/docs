@@ -18,19 +18,6 @@ How do we do this? Entirely on-chain...
 
 
 
-| MAINNET                                                | OPTIMISM                                         | POLYGON                                          |
-| ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| [https://pastry.xyz/](https://pastry.xyz)              | [https://pastry.xyz/](https://pastry.xyz)        | [https://pastry.xyz](https://pastry.xyz)         |
-| [discord](https://discord.gg/bakerydao)                | [discord](https://discord.gg/bakerydao)          | [discord](https://discord.gg/bakerydao)          |
-| [discourse](https://bake.community)                    | (coming soon)                                    | (coming soon)                                    |
-| [newsletter](https://bakerydao.me/newsletter/)         | [newsletter](https://bakerydao.me/newsletter/)   | [newsletter](https://bakerydao.me/newsletter)    |
-| [telegram](https://alpha.guild.xyz/bakerydao-telegram) | [telegram](https://guild.xyz/bakerydao-telegram) | [telegram](https://guild.xyz/bakerydao-telegram) |
-| [shopify](https://shop.pastry.xyz)                     | [shopify](https://shop.pastry.xyz)               | [shopify](https://shop.pastry.xyz)               |
-| [snapshot](https://vote.bakery.fyi)                    | [snapshot](https://vote.bakery.fyi)              | [snapshot](https://vote.bakery.fyi)              |
-| land                                                   | land                                             | (coming soon)                                    |
-| [guild](https://guild.xyz/the-pastries)                | [guild](https://guild.xyz/the-pastries)          | [guild](https://guild.xyz/the-pastries)          |
-| [chat](https://chat.pastry.xyz)                        | [chat](https://chat.pastry.xyz)                  | [chat](https://chat.pastry.xyz)                  |
-
 ## **BAKERY DAO**
 
 {% content-ref url="bakery-dao/pastry-nft.md" %}
