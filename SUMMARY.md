@@ -10,6 +10,7 @@
 * [MINI PASTRY](bakery-dao/mini-pastry.md)
 * [APPS](bakery-dao/apps/README.md)
   * [PASTRY XYZ](bakery-dao/apps/pastry-xyz.md)
+  * [NEWSLETTER](bakery-dao/apps/newsletter.md)
 
 ## How does it work?
 
