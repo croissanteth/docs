@@ -7,6 +7,7 @@
 
 * [PASTRY NFT](bakery-dao/pastry-nft.md)
 * [PASTRY VIP](bakery-dao/pastry-vip.md)
+* [MINI PASTRY](bakery-dao/mini-pastry.md)
 
 ## How does it work?
 
