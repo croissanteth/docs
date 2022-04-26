@@ -8,6 +8,7 @@
 * [PASTRY NFT](bakery-dao/pastry-nft.md)
 * [PASTRY VIP](bakery-dao/pastry-vip.md)
 * [MINI PASTRY](bakery-dao/mini-pastry.md)
+* [Page 2](bakery-dao/page-2.md)
 
 ## How does it work?
 
