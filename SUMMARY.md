@@ -17,6 +17,7 @@
   * [SHOPIFY](bakery-dao/integrations/shopify.md)
 * [TUTORIALS](bakery-dao/tutorials/README.md)
   * [LOGGING IN](bakery-dao/tutorials/logging-in.md)
+  * [RENEW PASTRY](bakery-dao/tutorials/renew-pastry.md)
 
 ## How does it work?
 
