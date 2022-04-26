@@ -19,9 +19,9 @@ Thanks to the simplicity of "Sign In With Ethereum," we are able to do all of th
 
 ![](<.gitbook/assets/disgif (1).gif>)
 
-VIP Pastry NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs may even entitle some users to a portion of revenue generated.
+Pastry NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs may even entitle some users to a portion of revenue generated.
 
-Pastries are able to contribute to the research provided in the Bakery, create their own profile, build up their attested reputation, and benefit from their effort.&#x20;
+They are able to contribute to the research provided in the Bakery, create their own profile, build up their attested reputation, and benefit from their effort.&#x20;
 
 **There are two "tiers" for memberships**.&#x20;
 
@@ -71,11 +71,11 @@ Here are our current integrations:
 |    **POLYGON (30-DAY)**    |    [0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485](https://polygonscan.com/address/0x253Ff450fa62e8c7916Ce5Ea08e312681c5C7485)    |
 | **BAKERY DAO (NO EXPIRY)** |                                                       **TO BE ANNOUNCED**                                                      |
 
-Our applications we simply require a keccak256 signature from the user's Ethereum address, and then they will be granted access and redirected back to the relevant URL if they are a valid member.
+Our applications simply require a keccak256 signature from the user's Ethereum address, and then they will be granted access and redirected back to the relevant URL if they are a valid member.
 
 This process is completely secure, takes seconds to do, **and does not incur gas fees**!
 
-![Bakery DAO Checkout](.gitbook/assets/chrome\_2V4pgEEMnY.png)
+![](.gitbook/assets/C8AF2BF9-B72A-48B2-A732-9F1BEDD7B0AA.jpeg)
 
 #### **The best part about all of this?** <a href="#features" id="features"></a>
 
