@@ -9,7 +9,7 @@ Step 1. Head over to [The BakeryDAO Discord](https://discord.gg/bakerydao)
 
 Step 2. Once you are in the #initiation channel, you will see a welcome message with two prompts.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (2).png>)
 
 Click on the link below “Acquiring the Bakery NFT”
 
@@ -27,17 +27,17 @@ Step 5. Once you’ve completed the purchase of the Bakery NFT, head back into t
 
 Step 6. In the #unlock channel, type “!unlock”.
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 Step 7. Click on the link Swordy responds to you with.
 
 Step 8. Click “Authorize”
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11) (2).png>)
 
 You will be directed to a webpage that looks like this:
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (2).png>)
 
 If you own a Tier One Bakery NFT, click the “VIP” option. If you own a Tier Two, click the “Pastry” option (only tier 2’s are live at the moment).
 

@@ -10,7 +10,7 @@ coverY: 0
 
 The Bakery embeds a checkout for our pastry NFT memberships via JavaScript APIs, and we provide a simple interface for consumers to purchase corresponding NFTs, or even generate their own customizable links!
 
-![](<../.gitbook/assets/image (7) (1).png>)
+![](<../.gitbook/assets/image (7) (2).png>)
 
 Our approach is similar to the frequently used **OAuth** & **OpenId Connect** flows, so that other applications who only need to _know_ of the user's address do not have to worry about handling web3 providers, while still being able to identity users. For this, we found it useful to build "authentication" URLs with a **redirect scheme** that allows even native applications to easily identify the user's address.
 
