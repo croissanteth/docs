@@ -6,7 +6,7 @@ coverY: 0
 
 # 📩 How do I join?
 
-![](<../../.gitbook/assets/image (8) (1).png>)
+![](<../../.gitbook/assets/image (8).png>)
 
 There are many ways you can join the BakeryDAO, including by following through with the steps after clicking [this link](https://bakerydao.me/website).
 
