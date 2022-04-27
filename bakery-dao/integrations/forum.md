@@ -24,6 +24,6 @@ From here, connect to you Ethereum wallet and continue with the purchase of the 
 
 Congratulations! You are now a member of the BakeryDAO and can benefit from all of its features! Members will be granted full access to posting on the community-powered forum for the BakeryDAO. It will look something like this:
 
-![](<../../.gitbook/assets/image (5) (1).png>)
+![](<../../.gitbook/assets/image (5) (1) (1).png>)
 
 If you have any questions, feel free to ask the administrators on any of the platforms we are integrated with!

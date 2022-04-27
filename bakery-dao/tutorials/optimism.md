@@ -14,7 +14,7 @@ If you don’t have a Ethereum wallet, head over to Metamask.io to get started w
 
 You will see a screen like this (minus a few networks if you haven’t connected before). Select the “Add Network” button seen in the image below:
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 A page where you can enter in the specific connection parameters will appear, and you’re nearly done!
 
@@ -34,7 +34,7 @@ To quickly get started with the BakeryNFT, you can then visit [Hop Exchange](htt
 
 After inputting the amount of Ethereum you want to swap from mainnet to optimism in the options, continue with the swap like you would with Uniswap. The transaction will take a few minutes to go through.
 
-![](<../../.gitbook/assets/image (11).png>)
+![](<../../.gitbook/assets/image (11) (1).png>)
 
 Once confirmed, head back over to your wallet and make sure you are on the Optimistic Ethereum network. Then visit [this link](https://bakerydao.me/website) to to continue with the purchase of the Bakery NFT on Optimism.
 
@@ -50,6 +50,6 @@ Once connected, you’ll see a page to complete the purchase of the NFT you sele
 
 In a few seconds, you will receive a BakeryNFT minted to your address, and then immediately have access to all of the features of the BakeryDAO.
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (5) (1).png>)
 
 If you have any questions or issues, let us know and we would be glad to help. And as always, welcome to the BakeryDAO! We are glad to have you here!
