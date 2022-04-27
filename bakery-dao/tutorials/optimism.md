@@ -42,7 +42,7 @@ Once confirmed, head back over to your wallet and make sure you are on the Optim
 
 Select the Optimism Bakery NFT option, then proceed to connect to your Ethereum wallet while on the Optimistic Ethereum network.
 
-![](<../../.gitbook/assets/image (12).png>)
+![](<../../.gitbook/assets/image (12) (1).png>)
 
 Once connected, you’ll see a page to complete the purchase of the NFT you selected. Complete by clicking the “Wallet” option and confirming the transaction in your Ethereum wallet once prompted.
 

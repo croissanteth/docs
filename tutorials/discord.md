@@ -27,7 +27,7 @@ Step 5. Once you’ve completed the purchase of the Bakery NFT, head back into t
 
 Step 6. In the #unlock channel, type “!unlock”.
 
-![](<../.gitbook/assets/image (12) (1).png>)
+![](<../.gitbook/assets/image (12) (1) (1).png>)
 
 Step 7. Click on the link Swordy responds to you with.
 
