@@ -8,7 +8,7 @@ coverY: 0
 
 # 🛒 Purchase Links
 
-![](<../.gitbook/assets/image (9) (1) (1).png>)
+![](<../.gitbook/assets/image (9) (1) (1) (1).png>)
 
 Our checkout can easily be integrated and configured in the way the user sees fit, and they can users even generate their own 'referral' links to advertise content locked behind the BakeryNFTs, and get a small percent of each purchase through their URL.
 
