@@ -6,7 +6,7 @@ The Pastry NFT is your first-stop access to the BakeryDAO and all of its feature
 
 Instead of just a cute little spinning pastry, the NFTs actually have a wide range of functionality off the bat.
 
-![](<../.gitbook/assets/image (12).png>)
+![](../.gitbook/assets/unnamed.gif)
 
 **Lending** - Contrary to your every day NFT, the Bakery NFT has a shareKey() function which can be called to lend time of your membership to an address of your choice, while retaining complete ownership of the token.
 
