@@ -14,7 +14,7 @@ If you don’t have a Ethereum wallet, head over to Metamask.io to get started w
 
 You will see a screen like this (minus a few networks if you haven’t connected before). Select the “Add Network” button seen in the image below:
 
-![](<../../.gitbook/assets/image (15) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1).png>)
 
 A page where you can enter in the specific connection parameters will appear, and you’re nearly done!
 

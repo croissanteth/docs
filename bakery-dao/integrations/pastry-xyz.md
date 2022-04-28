@@ -1,6 +1,6 @@
 # 🍰 PASTRY XYZ
 
-The Bakery DAO website, [https://pastry.xyz/](https://pastry.xyz) is the premier product of the Bakery DAO. Using the unique features of NFTs, we have created a token gated research hub where only the best alpha is accessible to the community (Bakery NFT holders).
+The Bakery DAO website, [https://pastry.xyz/](https://pastry.xyz) is the premier product of the Bakery DAO. Using the unique features of NFTs, we have created a token gated research hub where only the best alpha is accessible to the community (Pastry NFT holders).
 
 Sounds simple on the surface, right?&#x20;
 
@@ -22,4 +22,6 @@ When someone who is not a member goes to click on one of these articles, they wi
 
 ![](../../.gitbook/assets/1D7AACF0-A217-4084-8C34-550018BDEA9B.jpeg)
 
-This is done by leveraging [Unlock Protocol's](https://unlock-protocol.com) paywall application. &#x20;
+This is done by leveraging [Unlock Protocol's](https://unlock-protocol.com) paywall application.&#x20;
+
+In short, the Unlock Protocol dashboard allows creators to lock access to content across platform by creating a "Lock". A lock is a smart contract deployed on the Ethereum blockchain which defines terms of atr membership.

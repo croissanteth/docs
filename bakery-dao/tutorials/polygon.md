@@ -6,7 +6,7 @@ Since many of you may wish to avoid unnecessarily high gas fees on the Ethereum 
 
 If you don’t have a Ethereum wallet, head over to Metamask.io to get started with their browser extension or mobile app. From there, select the network at the top of the page of the app.
 
-![](<../../.gitbook/assets/image (15).png>)
+![](<../../.gitbook/assets/image (15) (1).png>)
 
 You will see a screen like this (minus a few networks if you haven’t connected before). Select the “Add Network” button seen in the image below:
 
