@@ -28,10 +28,10 @@ function expireAndRefundFor(
 Allows a key manager to expire and get a refund for their key, based on the cancellation terms.
 
 ```javascript
-function cancelAndRefund(uint _tokenId) external;
-```
+function cancelAndRefund(uint _tokenId) external;Copied!
 
-### `updateRefundPenalty`
+updateRefundPenalty
+```
 
 Allow a Lock manager to change the refund penalty. The first param is the duration of the free trial in seconds, and the second is the penalty in basis-points.
 

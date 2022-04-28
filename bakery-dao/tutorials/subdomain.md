@@ -10,7 +10,7 @@ Next, insert the ENS name you wish to claim in the format of the example provide
 
 To have it appear elsewhere as your web3 username (+ bonus points), visit: [https://app.ens.domains/address/](https://app.ens.domains/address/)\<your-address-here> You will see a dropdown to select the new username you just acquired. Select it + hit save, then confirm the transaction in your wallet.
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 **Congratulations, you now have a BakeryDAO subdomain!**
 

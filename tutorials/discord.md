@@ -9,7 +9,7 @@ Step 1. Head over to [The BakeryDAO Discord](https://discord.gg/bakerydao)
 
 Step 2. Once you are in the #initiation channel, you will see a welcome message with two prompts.
 
-![](<../.gitbook/assets/image (4) (2).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 Click on the link below “Acquiring the Bakery NFT”
 
@@ -27,7 +27,7 @@ Step 5. Once you’ve completed the purchase of the Bakery NFT, head back into t
 
 Step 6. In the #unlock channel, type “!unlock”.
 
-![](<../.gitbook/assets/image (12) (1) (1).png>)
+![](<../.gitbook/assets/image (12) (2).png>)
 
 Step 7. Click on the link Swordy responds to you with.
 
