@@ -14,7 +14,7 @@ To have it appear elsewhere as your web3 username (+ bonus points), visit: [http
 
 **Congratulations, you now have a BakeryDAO subdomain!**
 
-**If you're having troubles, follow the steps provided in the GIF below:**\
+If you're having troubles, follow the steps provided in the GIF below:\
 
 
 ![](<../../.gitbook/assets/39a048f8-47d6-406e-a31d-55cd7a68730a\_LLwGSzXT (1).gif>)
