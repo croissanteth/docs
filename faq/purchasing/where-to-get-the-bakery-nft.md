@@ -8,18 +8,18 @@ coverY: 0
 
 # ❔ Where to get the Bakery NFT?
 
-{% content-ref url="../../tutorials/website/" %}
-[website](../../tutorials/website/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../tutorials/newsletter.md" %}
-[newsletter.md](../../tutorials/newsletter.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../tutorials/discourse.md" %}
-[discourse.md](../../tutorials/discourse.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}

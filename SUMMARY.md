@@ -60,17 +60,6 @@
   * [❔ Where to get the Bakery NFT?](faq/purchasing/where-to-get-the-bakery-nft.md)
   * [🏁 How to purchase on Optimism?](faq/purchasing/how-to-purchase-on-optimism.md)
 
-## 📌 Tutorials
-
-* [✏ Website](tutorials/website/README.md)
-  * [👽 Customizing profiles](tutorials/website/customizing-profiles.md)
-  * [🔳 Logging-in](tutorials/website/logging-in.md)
-  * [❤ For existing members](tutorials/website/for-existing-members.md)
-  * [☀ For non-members](tutorials/website/for-non-members.md)
-* [💻 Discord](tutorials/discord.md)
-* [🎱 Discourse](tutorials/discourse.md)
-* [🗓 Newsletter](tutorials/newsletter.md)
-
 ## 🔎 Troubleshooting
 
 * [🗣 I already have the NFT!](troubleshooting/i-already-have-the-nft.md)
