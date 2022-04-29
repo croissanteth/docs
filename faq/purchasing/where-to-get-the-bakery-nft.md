@@ -12,8 +12,8 @@ coverY: 0
 [website](../../tutorials/website/)
 {% endcontent-ref %}
 
-{% content-ref url="../../integrations/discord/" %}
-[discord](../../integrations/discord/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../../tutorials/newsletter.md" %}

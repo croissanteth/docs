@@ -39,11 +39,6 @@
   * [💳 KeyPurchaser.sol](technical/smart-contracts/keypurchaser.sol.md)
 * [CHECKOUT](technical/checkout/README.md)
   * [AUTHENTIFICATION](technical/checkout/authentification.md)
-* [✅ Members](how-does-it-work/members.md)
-* [🎁 Paywall](how-does-it-work/paywall.md)
-* [🛒 Purchase Links](how-does-it-work/checkout.md)
-* [🥖 Pastry NFT](how-does-it-work/pastry-nft/README.md)
-  * [Airdrop?](how-does-it-work/pastry-nft/airdrop.md)
 * [SIGN IN WITH ETHEREUM](how-does-it-work/sign-in-with-ethereum.md)
 
 ## FAQ
@@ -64,18 +59,6 @@
 * [💰 Purchasing](faq/purchasing/README.md)
   * [❔ Where to get the Bakery NFT?](faq/purchasing/where-to-get-the-bakery-nft.md)
   * [🏁 How to purchase on Optimism?](faq/purchasing/how-to-purchase-on-optimism.md)
-
-## ⚙ Integrations
-
-* [👉 pastry.xyz](integrations/pastry.xyz/README.md)
-* [🤖 Discord](integrations/discord/README.md)
-  * [🏫 Guild xyz](integrations/discord/guild-xyz.md)
-* [🎙 Discourse](integrations/discourse.md)
-* [🔊 Telegram](integrations/telegram.md)
-* [⚡ Snapshot](integrations/snapshot.md)
-* [👜 Shopify](integrations/shopify.md)
-* [🌎 Decentraland](integrations/decentraland.md)
-* [📰 Newsletter](integrations/newsletter.md)
 
 ## 📌 Tutorials
 

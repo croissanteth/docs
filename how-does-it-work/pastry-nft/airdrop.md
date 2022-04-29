@@ -1,3 +1,0 @@
-# Airdrop?
-
-baking...
