@@ -8,7 +8,7 @@ description: >-
 
 ![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
-Our checkout can easily be integrated and configured in the way the user sees fit, and they can users even generate their own 'referral' links to advertise content locked behind the BakeryNFTs, and get a small percent of each purchase through their URL.
+Our checkout can easily be integrated and configured in the way the user sees fit, and they can users even generate their own 'referral' links to advertise content locked behind the Pastry NFTs, and get a small percent of each purchase through their URL.
 
 The `paywallConfig` is a JSON object which includes a set of customizations for your experience. It includes the following elements:
 
@@ -19,7 +19,7 @@ The `paywallConfig` is a JSON object which includes a set of customizations for 
 * `persistentCheckout`: _optional boolean_: `true` \_\_if the modal cannot be closed, defaults to `false` when embedded. When closed, the user will be redirected to the `redirect` query param when using a purchase address (see above).
 * `useDelegatedProvider`: _optional boolean._ To be announced.
 * `network`: _optional integer._ defaults to `1`. See below.
-* `referrer`: _optional string_. The address which will receive UDT tokens (if the transaction is applicable)
+* `referrer`: _optional string_. The address which will receive discount tokens (if the transaction is applicable)
 * `messageToSign`: _optional string_. If supplied, the user is prompted to sign this message using their wallet. If using a checkout URL, a `signature` query param is then appended to the `redirectUri` (see above). If using the embedded paywall, the `unlockProtocol.authenticated` includes the `signature` attribute.
 * `pessimistic`: _optional boolean._ defaults to `false`_._ By default, to reduce friction, we do not require users to wait for the transaction to be mined before offering them to be redirected. By setting this to `true`, users will need to wait for the transaction to have been mined in order to proceed to the next step.
 
