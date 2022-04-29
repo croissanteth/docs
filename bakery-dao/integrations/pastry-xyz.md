@@ -22,6 +22,6 @@ When someone who is not a member goes to click on one of these articles, they wi
 
 ![](../../.gitbook/assets/1D7AACF0-A217-4084-8C34-550018BDEA9B.jpeg)
 
-Behind the scenes, this content is hidden behind a "Lock". A lock is a smart contract deployed on the Ethereum blockchain which defines terms of a membership.
+Behind the scenes, this content is hidden behind a "Lock", which is a smart contract on the Ethereum blockchain.&#x20;
 
 Each lock contract is an [ERC-721](https://eips.ethereum.org/EIPS/eip-721) compliant contract capable of creating and managing NFTs (non-fungible tokens we call "Keys"), as well as restricting access based on the user's possession (or lack of) one of these keys.
