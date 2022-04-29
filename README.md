@@ -47,11 +47,9 @@ The goal with this is to build up a powerful group of researchers, builders, and
 
 Our community will be inclined to share content and help research, while the Chef's will be incentivized to create their best work. **It's a powerful combination.**
 
-Here are our current integrations:
+Our applications simply require a keccak256 signature from the user's Ethereum address, and then they will be granted access and redirected back to the relevant URL if they are a valid member of the Bakery.
 
-Our applications simply require a keccak256 signature from the user's Ethereum address, and then they will be granted access and redirected back to the relevant URL if they are a valid member.
-
-This process is completely secure, takes seconds to do, **and does not incur gas fees**!
+**This process is completely secure, takes seconds to do, and does not incur gas fees**!
 
 ![](.gitbook/assets/C8AF2BF9-B72A-48B2-A732-9F1BEDD7B0AA.jpeg)
 
