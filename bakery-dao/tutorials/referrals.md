@@ -48,7 +48,7 @@ The `paywallConfig` is a JSON object which includes a set of customizations for 
 }
 ```
 
-Here are some of our generated URL's (thrown through a url shortener to look prettier), which each serve as paywalls to the BakeryNFT, but have different behaviors including the redirect link, metadata inputs (for newsletter), and logos to display.
+Here are some of our generated URL's (thrown through a url shortener to look prettier), which each serve as paywalls to the Pastry NFT, but have different behaviors including the redirect link, metadata inputs (for newsletter), and logos to display.
 
 | WEBSITE                                               | NEWSLETTER                                                                                                                                                                                                                                                                    | DISCORD                                  |
 | ----------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
