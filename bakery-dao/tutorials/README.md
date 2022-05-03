@@ -1,7 +1,5 @@
 # TUTORIALS
 
-K
-
 {% content-ref url="logging-in.md" %}
 [logging-in.md](logging-in.md)
 {% endcontent-ref %}

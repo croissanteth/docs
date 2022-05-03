@@ -6,7 +6,7 @@ With the VIP Pastry NFTs, things get just a slight bit different, but certainly 
 
 They also come with their own unique pastry, having individual rarities and components to explore and discover!
 
-![](../.gitbook/assets/thepastries.gif)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 Holders of these tokens will generate yield in time from the memberships, which they can send to their friends, sell on the secondary market, lend, or do many other things with! These NFTs do not come with an expiration timestamp, but they are deemed valid as memberships via the smart contract we mentioned previously called [ERC721BalanceOfHook](https://github.com/unlock-protocol/unlock/blob/master/smart-contracts/contracts/hooks/ERC721BalanceOfHook.sol).
 
