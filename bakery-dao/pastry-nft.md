@@ -1,8 +1,14 @@
+---
+description: >-
+  ERC-721 tokens, with a slight twist. Each of these NFTs represents
+  limited-time access to the Bakery and all of its content.
+---
+
 # 🧁 PASTRY NFT
 
 ### Pastry NFT
 
-The Pastry NFT is your first-stop access to the BakeryDAO and all of its features. It is cheaper than its cousin counterpart, the "Pastry VIP" NFTs. This is because they expire depending on a block timestamp recorded upon purchase. They are also unlimited in supply, but offer some very cool features we're excited to share with you all.
+The Pastry NFT is your first-stop access to the BakeryDAO and all of its features. It is cheaper than its cousin counterpart, the "Pastry VIP" NFTs. This is because they expire depending on a block timestamp recorded upon purchase. They are also unlimited in supply, but offer some very cool features we're excited to share with you all.&#x20;
 
 Instead of just a cute little spinning pastry, these NFTs actually have a wide range of functionality off of the bat.
 
