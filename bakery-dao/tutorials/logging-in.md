@@ -8,7 +8,7 @@ description: >-
 
 The Pastry NFT is proud to be using an implementation of the [Sign-In With Ethereum](https://docs.unlock-protocol.com/unlock/developers/sign-in-with-ethereum) ([EIP4361](https://eips.ethereum.org/EIPS/eip-4361)) specification! Allow us to explain what this is and why it is so powerful...
 
-![](<../../.gitbook/assets/image (6).png>)
+![](../../.gitbook/assets/9EB5DA25-D887-4100-ABAD-318DB70C02F8.jpeg)
 
 All of our integrations use a simple verification mechanism with NFTs, confirming a cryptographic signature from a valid address and storing the users session in the browser unless logged out. You can log in to the main website by visiting any locked page.
 
