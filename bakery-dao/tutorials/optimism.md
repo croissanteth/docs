@@ -7,21 +7,21 @@ description: >-
 
 # 🔴 OPTIMISM
 
-![](<../../.gitbook/assets/image (10).png>)
+![Optimistic Pastry](<../../.gitbook/assets/image (10).png>)
 
 Since many of you may wish to avoid unnecessarily high gas fees on the Ethereum network, we’ve contrived a simple explanation of how to get started with the Bakery DAO quickly and cheaply with a Ethereum wallet.
 
 If you don’t have a Ethereum wallet, head over to Metamask.io to get started with their browser extension or mobile app. From there, select the network at the top of the page of the app.
 
-![](<../../.gitbook/assets/image (14).png>)
+![Metamask Network Page](<../../.gitbook/assets/image (14).png>)
 
 You will see a screen like this (minus a few networks if you haven’t connected before). Select the “Add Network” button seen in the image below:
 
-![](<../../.gitbook/assets/image (15).png>)
+![Metamask Add Network Page](<../../.gitbook/assets/image (15).png>)
 
 A page where you can enter in the specific connection parameters will appear, and you’re nearly done!
 
-![](<../../.gitbook/assets/image (1).png>)
+![Configure Network Page](<../../.gitbook/assets/image (1).png>)
 
 Enter these items in the details, then hit “Save.”
 
@@ -39,22 +39,22 @@ To quickly get started with the BakeryNFT, you can then visit [Hop Exchange](htt
 
 After inputting the amount of Ethereum you want to swap from mainnet to optimism in the options, continue with the swap like you would with Uniswap. The transaction will take a few minutes to go through.
 
-![](<../../.gitbook/assets/image (9).png>)
+![Hop Exchange](<../../.gitbook/assets/image (9).png>)
 
 Once confirmed, head back over to your wallet and make sure you are on the Optimistic Ethereum network. Then visit [this link](https://bakerydao.me/website) to to continue with the purchase of the Pastry NFT on Optimism.
 
-![](<../../.gitbook/assets/image (12).png>)
+![Bakery Checkout](<../../.gitbook/assets/image (12).png>)
 
 Select the Optimism Pastry NFT option, then proceed to connect to your Ethereum wallet while on the Optimistic Ethereum network.
 
-![](<../../.gitbook/assets/image (8).png>)
+![Select Network Page](<../../.gitbook/assets/image (8).png>)
 
 Once connected, you’ll see a page to complete the purchase of the NFT you selected. Complete by clicking the “Wallet” option and confirming the transaction in your Ethereum wallet once prompted.
 
-![](<../../.gitbook/assets/image (13).png>)
+![Optimism Checkout](<../../.gitbook/assets/image (13).png>)
 
 In a few seconds, you will receive a Pastry NFT minted to your address, and then immediately have access to all of the features of the BakeryDAO.
 
-![](../../.gitbook/assets/3E87FA47-86C8-4443-9295-FE02495302DC.jpeg)
+![Membership Confirmation](../../.gitbook/assets/3E87FA47-86C8-4443-9295-FE02495302DC.jpeg)
 
 If you have any questions or issues, let us know and we would be glad to help. And as always, welcome to the BakeryDAO! We are glad to have you here!
