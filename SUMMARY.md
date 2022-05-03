@@ -24,6 +24,7 @@
   * [🎀 REWARDS](bakery-dao/tutorials/referrals.md)
   * [⏪ REFUNDS](bakery-dao/tutorials/refunds.md)
   * [🪅 SUBDOMAIN](bakery-dao/tutorials/subdomain.md)
+  * [💳 CREDIT CARDS](bakery-dao/tutorials/credit-cards.md)
 * [GOVERNANCE](bakery-dao/governance/README.md)
   * [⚡ THE DAO](bakery-dao/governance/the-dao.md)
   * [💡 PROPOSALS](bakery-dao/governance/proposals.md)
