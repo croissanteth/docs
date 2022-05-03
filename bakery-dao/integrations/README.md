@@ -1,12 +1,8 @@
----
-description: >-
-  So many pastries, so many awesome integrations! Are you confused on where to
-  even get started with all the deliciousness? This page may help guide you...
----
-
 # INTEGRATIONS
 
 The Bakery "bakes in" different types of verification mechanisms across more than ten different applications for pastries. This is all made possible thanks to some Web3 trickery, and it allows the community to experiment with some interesting things...
+
+
 
 {% content-ref url="pastry-xyz.md" %}
 [pastry-xyz.md](pastry-xyz.md)

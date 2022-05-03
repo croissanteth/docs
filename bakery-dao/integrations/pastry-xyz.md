@@ -1,10 +1,17 @@
+---
+description: >-
+  A sleek Next JS application with cutting-edge speed, and verification using
+  server-side props to pass different content to users based on their membership
+  status.
+---
+
 # 🍰 PASTRY XYZ
 
-The Bakery DAO website, [https://pastry.xyz/](https://pastry.xyz) is the prime product of the Bakery DAO. Using the unique features of our NFTs, we have created a token-gated research hub where only the best alpha is accessible to the community (Pastry NFT holders).
+The Bakery DAO website, or [pastry.xyz](https://pastry.xyz), is the prime product of the Bakery DAO. Using the unique features of our NFTs, we have created a token-gated research hub where only the best alpha is accessible to the community (Pastry NFT holders).
 
 Sounds simple on the surface, right? Let's dive into the underlying functions to see what's going on under the hood...&#x20;
 
-When users enter the [https://pastry.xyz/](https://pastry.xyz) website, they will see the following page:
+When users enter the [Pastry XYZ](https://pastry.xyz) application, they will see the following page:
 
 ![](../../.gitbook/assets/56D28D86-5FB0-41F7-A420-883DFF1E00F3.jpeg)
 
