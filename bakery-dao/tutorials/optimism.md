@@ -33,8 +33,6 @@ Enter these items in the details, then hit “Save.”
 
 Congrats! You should be connected to the Optimistic Ethereum network, a faster and cheaper layer two network built on top of Ethereum’s base security layer, utilizing the functions of optimistic rollups. You can do everything you wish to on this network just like the Ethereum network, at a fraction of the cost!
 
-Congrats! You should be connected to the Optimistic Ethereum network, a faster and cheaper layer two network built on top of Ethereum’s base security layer, utilizing the functions of optimistic rollups. You can do everything you wish to on this network just like the Ethereum network, at a fraction of the cost!
-
 To quickly get started with the BakeryNFT, you can then visit [Hop Exchange](https://hop.exchange), a layer two dapp which allows for nearly instant swapping of Ethereum across different optimistic rollups. You can swap mainnet ETH to Optimistic ETH and back while avoiding the wait times for bonding when using the bridge.
 
 After inputting the amount of Ethereum you want to swap from mainnet to optimism in the options, continue with the swap like you would with Uniswap. The transaction will take a few minutes to go through.
