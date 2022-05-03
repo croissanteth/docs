@@ -18,7 +18,7 @@ Users can post, collaborate, and keep up to date with all of the alpha in DeFi.
 
 Thanks to the simplicity of "Sign In With Ethereum" specification, we are able to do all of this in a UX that is unmatched! Check out an example on our website below:
 
-![](<.gitbook/assets/disgif (1).gif>)
+![Bakery Membership Flow](<.gitbook/assets/disgif (1).gif>)
 
 Holders of Pastry NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs will even entitle some users to a portion of revenue generated.
 
@@ -32,7 +32,7 @@ Pastry NFTs are 30-Day membership NFTs, that expire and may be renewed whenever.
 
 They have an unlimited supply, are available on demand, but must be renewed in order to be a valid!
 
-![](<.gitbook/assets/Untitled design (3).png>)
+![Expiring Pastry NFT](<.gitbook/assets/Untitled design (3).png>)
 
 ## Pastry VIP
 
@@ -40,13 +40,13 @@ Next, we have the Pastry VIP NFTs. These are non-expiring, exclusive pastry NFTs
 
 They have a limited supply of 2,222 tokens, and will be airdropped to the most active pastries on our platforms once officially launched. VIP pastries will be able to earn retroactive rewards, vote on different system parameters, and benefit from the content provided in the Bakery DAO, forever!
 
-![](<.gitbook/assets/Untitled design (2).png>)
+![Pastry VIP NFT](<.gitbook/assets/Untitled design (2).png>)
 
 The mechanisms described above allow us to do some incredible things, and our NFTs can be integrated with content across any application the community wishes.&#x20;
 
 Right now, pastries are supported across the "research" and community section of our website, discord, discourse, cloudflare, telegram, shopify, newsletter, guild, snapshot, wordpress, and many more platforms!
 
-![](.gitbook/assets/IMG\_8438.PNG)
+![Pastry NFT Integrations](.gitbook/assets/IMG\_8438.PNG)
 
 The goal with this is to build up a powerful group of researchers, builders, and thought leaders with the help of digital ownership and crypto-economic incentives. We are putting the power at the hands of the readers.
 
@@ -56,7 +56,7 @@ Our applications simply require a keccak256 signature from the user's Ethereum a
 
 **This process is completely secure, takes seconds to do, and does not incur gas fees**!
 
-![](.gitbook/assets/C8AF2BF9-B72A-48B2-A732-9F1BEDD7B0AA.jpeg)
+![Bakery Membership Confirmed](.gitbook/assets/C8AF2BF9-B72A-48B2-A732-9F1BEDD7B0AA.jpeg)
 
 #### **The best part about all of this?** <a href="#features" id="features"></a>
 
@@ -72,7 +72,7 @@ Our applications simply require a keccak256 signature from the user's Ethereum a
 
 ## Do you think you have what it takes?
 
-![](<.gitbook/assets/TRIAL PASTRY.gif>)
+![MINI Pastry NFT](<.gitbook/assets/TRIAL PASTRY.gif>)
 
 ## Not so fast, anon!
 

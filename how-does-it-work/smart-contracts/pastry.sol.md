@@ -10,7 +10,7 @@ coverY: 0
 
 The [pastry.sol](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721) smart contract is the implementation of a standard ERC-721, with a few packs of punches added in functionality later down the line. This is what is used for the BakeryDAO unlimited access NFTs.&#x20;
 
-![Cloud Croissant](../../.gitbook/assets/croissantt.webp)
+![Cooked Cloud Croissant](../../.gitbook/assets/croissantt.webp)
 
 ```
 // SPDX-License-Identifier: MIT

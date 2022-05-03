@@ -13,7 +13,7 @@ Sounds simple on the surface, right? Let's dive into the underlying functions to
 
 When users enter the [Pastry XYZ](https://pastry.xyz) application, they will see the following page:
 
-![](../../.gitbook/assets/56D28D86-5FB0-41F7-A420-883DFF1E00F3.jpeg)
+![Pastry XYZ Homepage](../../.gitbook/assets/56D28D86-5FB0-41F7-A420-883DFF1E00F3.jpeg)
 
 Users who are not yet members are able to freely browse the content under the "Home, Blog, About, and Pricing sections. This is where the Chefs post various research reports regarding all topics in DeFi.
 
@@ -23,11 +23,11 @@ However, if you're looking for more in-depth and tasty alpha, you will want to l
 
 Under each of these pages, a brief introduction of research articles will be shown... However, these aren't just any articles.
 
-![](../../.gitbook/assets/9519CF86-D555-455C-8A33-E2E7CB09D4E1.jpeg)
+![Bakery Research Section](../../.gitbook/assets/9519CF86-D555-455C-8A33-E2E7CB09D4E1.jpeg)
 
 When someone who is not a member goes to click on one of these articles, they will be prompted verify their pastry NFT membership. This requires a simple signature from the Ethereum wallet with the NFT, and then the user will be returned to the full research article upon verification. If they are not already a member, they will be prompted to purchase the pastry NFT.
 
-![](../../.gitbook/assets/1D7AACF0-A217-4084-8C34-550018BDEA9B.jpeg)
+![Bakery Non-Member Page](../../.gitbook/assets/1D7AACF0-A217-4084-8C34-550018BDEA9B.jpeg)
 
 Once your membership status on the application is confirmed, a whole new world of possibilities opens up. By visiting your profile section at the top right of the screen, you'll be able to customize your account display for the Bakery.
 

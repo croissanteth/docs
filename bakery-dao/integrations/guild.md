@@ -1,19 +1,20 @@
 ---
-description: Want to become more involved in the Bakery? Come and join our guild
+description: >-
+  Want to become more involved in the Bakery? Come and join our Guild! This is
+  our foundation for cross-chain governance, and more to be announced in the
+  future...
 ---
 
 # 🛡 GUILD
 
-To join the BakeryDAO guild, head to [https://guild.xyz/bakerydao](https://guild.xyz/bakerydao).
+This is our web3 Guild. It acts as our link between web2 and web3. Guilds help break the barrier between the two with the use of zero-knowledge proofs, keeping the links between profiles and wallets discreet using zero-knowledge proofs technology. To join the BakeryDAO guild, head to [https://guild.xyz/bakerydao](https://guild.xyz/bakerydao)!
 
 You will see a page that looks like this:
 
-![](../../.gitbook/assets/chrome\_WgoXzokZ4Z.png)
+![Bakery Guild Page](../../.gitbook/assets/chrome\_WgoXzokZ4Z.png)
 
-If you already have a Bakery DAO membership, click in the top right where it says "Connect to a wallet".
+If you already have a Pastry NFT membership, click in the top right where it says "Connect to a wallet".
 
-From there, you will be asked to connect the wallet. Once connected, it will automatically detect which Bakery DAO membership you have and grant you roles accordingly.
+From there, you will be asked to connect the wallet. Once connected, it will prompt you to sign a message in your wallet, with a link acquired from Discord. After signing, it will automatically detect which Bakery DAO memberships you have and grant you roles accordingly based on which link you followed the account from.
 
-Come join us and the growing list of guild members looking to explore the possibilities of Web3!
-
-![](../../.gitbook/assets/chrome\_lZDCNFgcx2.png)
+We currently use Guild to lock access to more than 40 secret channels across our Discord, only available to members of the Bakery.
