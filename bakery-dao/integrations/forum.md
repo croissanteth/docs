@@ -6,15 +6,13 @@ description: >-
 
 # 🥐 FORUM
 
-Get started with [The Bake Community](https://bake.community) on Discourse! As a first time visitor, the page will look something like this...
+Get started with [The Bake Community](https://bake.community) on Discourse! This is the main spot for discussing what's new in the ecosystem regarding proposal, governance, development, and partnerships! As a first time visitor, the page will look something like this...
 
 ![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 In the top right corner, you’ll see options to login or sign up for the site to begin posting. Sign up here or login to your existing discourse account to continue.
 
 Once logged in or signed up for your account on Discourse, navigate to one of the locked categories or topics. If you are already a holder of a valid Pastry NFT, content will immediately be available for viewing. However, if you are not a member the topics will be hidden behind the Pastry NFT.
-
-It will look something like this:
 
 ![](<../../.gitbook/assets/image (10) (1) (1).png>)
 
