@@ -32,7 +32,7 @@ Pastry NFTs are 30-Day membership NFTs, that expire and may be renewed whenever.
 
 They have an unlimited supply, are available on demand, but must be renewed in order to be a valid!
 
-![Expiring Pastry NFT](<.gitbook/assets/Untitled design (3).png>)
+![Pastry NFT Membership](.gitbook/assets/pastrynft.png)
 
 ## Pastry VIP
 
@@ -40,7 +40,7 @@ Next, we have the Pastry VIP NFTs. These are non-expiring, exclusive pastry NFTs
 
 They have a limited supply of 2,222 tokens, and will be airdropped to the most active pastries on our platforms once officially launched. VIP pastries will be able to earn retroactive rewards, vote on different system parameters, and benefit from the content provided in the Bakery DAO, forever!
 
-![Pastry VIP NFT](<.gitbook/assets/Untitled design (2).png>)
+![Pastry VIP Membership](<.gitbook/assets/pastryvip (1).png>)
 
 The mechanisms described above allow us to do some incredible things, and our NFTs can be integrated with content across any application the community wishes.&#x20;
 
