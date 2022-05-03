@@ -22,8 +22,8 @@ When someone who is not a member goes to click on one of these articles, they wi
 
 ![](../../.gitbook/assets/1D7AACF0-A217-4084-8C34-550018BDEA9B.jpeg)
 
-Once your membership status on the application is confirmed, a whole new world of possibilities opens up.
+Once your membership status on the application is confirmed, a whole new world of possibilities opens up. By visiting your profile section at the top right of the screen, you'll be able to customize your account display for the Bakery.
 
-The Bakery uses [ERC-721](https://eips.ethereum.org/EIPS/eip-721) compliant contracts capable of creating and managing NFTs, as well as restricting access based on the user's possession (or lack of) one of the particular NFTs.
+Furthermore, pastries will have the option to add their own research reports locked behind the pastry NFT, as simple as the click of a few buttons!
 
 We use cookies and cryptographic signatures to verify members of the site, and serve different content based on server-side props passed from the browser. This allows for a seamless and unbeatable UX!
