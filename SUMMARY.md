@@ -40,6 +40,7 @@
   * [🪙 ERC721BalanceOfHook.sol](technical/smart-contracts/erc721balanceofhook.sol.md)
   * [💳 KeyPurchaser.sol](technical/smart-contracts/keypurchaser.sol.md)
 * [DEVELOPERS](technical/checkout/README.md)
+  * [SUBGRAPHS](technical/developers/subgraphs.md)
   * [LOCKING CONTENT](technical/developers/locking-content.md)
-  * [RUNNING LOCALLY](technical/developers/running-locally.md)
+  * [RUNNING LOCALLY](technical/checkout/authentification.md)
 * [SIGN IN WITH ETHEREUM](how-does-it-work/sign-in-with-ethereum.md)
