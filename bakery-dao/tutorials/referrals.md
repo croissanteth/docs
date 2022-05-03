@@ -8,9 +8,9 @@ description: >-
 
 ![Bakery Checkout](<../../.gitbook/assets/image (9) (1) (1).png>)
 
-Our checkout can easily be integrated and configured in the way the user sees fit, and they can users even generate their own 'referral' links to advertise content locked behind the Pastry NFTs, and get a small percent of each purchase through their URL.
+Our checkout can easily be integrated and configured in the way the user sees fit, and users can even generate their own 'referral' links to advertise content locked behind the Pastry NFTs, and get a small percent of each purchase through their URL.
 
-We additionally have a referral link generation webpage at [referral.pastry.xyz](https://referral.pastry.xyz). Using our simple form interface, users can easily generate their own referral links and get automatic rewards for their help!
+We additionally have a referral link generation webpage at [referral.pastry.xyz](https://referral.pastry.xyz). Using our simple form interface, users can easily generate these referral links and get automatic rewards for their help sharing!
 
 ![Pastry Referral Generation Page](../../.gitbook/assets/6C1F355F-382F-4C43-9BC3-6E8D7295AB98.jpeg)
 
