@@ -39,6 +39,6 @@
   * [👾 SDaoRegistrar.sol](how-does-it-work/smart-contracts/sdaoregistrar.sol.md)
   * [🪙 ERC721BalanceOfHook.sol](technical/smart-contracts/erc721balanceofhook.sol.md)
   * [💳 KeyPurchaser.sol](technical/smart-contracts/keypurchaser.sol.md)
-* [CHECKOUT](technical/checkout/README.md)
-  * [AUTHENTIFICATION](technical/checkout/authentification.md)
+* [DEVELOPERS](technical/developers/README.md)
+  * [AUTHENTIFICATION](technical/developers/authentification.md)
 * [SIGN IN WITH ETHEREUM](how-does-it-work/sign-in-with-ethereum.md)
