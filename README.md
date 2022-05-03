@@ -16,21 +16,25 @@ The Bakery is an experiment with web 3.0. We are giving the power to readers, an
 
 Users can post, collaborate, and keep up to date with all of the alpha in DeFi.
 
-Thanks to the simplicity of "Sign In With Ethereum," we are able to do all of this in a UX that is unmatched! Check out an example on our website below:
+Thanks to the simplicity of "Sign In With Ethereum" specification, we are able to do all of this in a UX that is unmatched! Check out an example on our website below:
 
 ![](<.gitbook/assets/disgif (1).gif>)
 
-Pastry NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs may even entitle some users to a portion of revenue generated.
+Holders of Pastry NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs will even entitle some users to a portion of revenue generated.
 
-They are able to contribute to the research provided in the Bakery, create their own profile, build up their attested reputation, and benefit from their effort.&#x20;
+Users with them are able to contribute to the research provided in the Bakery, create their own profile, build up their attested reputation, and benefit from their effort with the underlying NFT and the revenue it generates.
 
-**There are two "tiers" for memberships**.&#x20;
+**There are two "tiers" for memberships**.
+
+## Pastry NFT
 
 Pastry NFTs are 30-Day membership NFTs, that expire and may be renewed whenever. These are ERC-721 tokens just like any other NFT, with an added expirationDuration() value we use to determine whether users are valid members or not. Pastry NFTs are deployed on Ethereum, Optimism, and Polygon.
 
 They have an unlimited supply, are available on demand, but must be renewed in order to be a valid!
 
 ![](<.gitbook/assets/Untitled design (3).png>)
+
+## Pastry VIP
 
 Next, we have the Pastry VIP NFTs. These are non-expiring, exclusive pastry NFTs that are the rarest of them all!&#x20;
 
@@ -40,7 +44,7 @@ They have a limited supply of 2,222 tokens, and will be airdropped to the most a
 
 The mechanisms described above allow us to do some incredible things, and our NFTs can be integrated with content across any application the community wishes.&#x20;
 
-Right now, pastries are supported across the "research" section of our website, discord, discourse, cloudflare, telegram, shopify, newsletter, guild, snapshot, wordpress, and many more platforms!
+Right now, pastries are supported across the "research" and community section of our website, discord, discourse, cloudflare, telegram, shopify, newsletter, guild, snapshot, wordpress, and many more platforms!
 
 ![](.gitbook/assets/IMG\_8438.PNG)
 
