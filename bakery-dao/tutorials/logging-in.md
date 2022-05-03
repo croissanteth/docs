@@ -1,7 +1,7 @@
 ---
 description: >-
-  What do cryptographic signatures and pastry NFTs have in common? A lot more
-  than you think!
+  What do cryptographic signatures, web3, and pastry NFTs have in common? A lot
+  more than you think!
 ---
 
 # 🔌 LOGGING IN
@@ -10,7 +10,7 @@ The Pastry NFT is proud to be using an implementation of the [Sign-In With Ether
 
 ![](../../.gitbook/assets/9EB5DA25-D887-4100-ABAD-318DB70C02F8.jpeg)
 
-All of our integrations use a simple verification mechanism with NFTs, confirming a cryptographic signature from a valid address and storing the users session in the browser unless logged out. You can log in to the main website by visiting any locked page.
+All of our integrations use a simple verification mechanism with NFTs, confirming a cryptographic signature from a valid address and storing the users session in the browser unless logged out. You can log in to the main website by visiting any locked page.&#x20;
 
 This includes the Login section at the top right of the screen below, and both the Community and Research pages on the navigation bar.
 
