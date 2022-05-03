@@ -10,10 +10,14 @@ description: >-
 
 Our checkout can easily be integrated and configured in the way the user sees fit, and they can users even generate their own 'referral' links to advertise content locked behind the Pastry NFTs, and get a small percent of each purchase through their URL.
 
-The `paywallConfig` is a JSON object which includes a set of customizations for your experience. It includes the following elements:
+We additionally have a referral link generation webpage at [referral.pastry.xyz](https://referral.pastry.xyz). Using our simple form interface, users can easily generate their own referral links and get automatic rewards for their help!
+
+![](../../.gitbook/assets/6C1F355F-382F-4C43-9BC3-6E8D7295AB98.jpeg)
+
+The Bakery `paywallConfig` is a JSON object which includes a set of customizations for your experience. It includes the following elements:
 
 * `locks` : _required object_, a list of lock objects (see below).
-* `icon`: _optional string_, the URL for a icon to display in the top left corner of the modal.
+* `icon`: _optional string_, the URL for an icon to display in the top left corner of the modal.
 * `callToAction`: _optional object_, a list of messages shown based on the state of the checkout modal (see below).
 * `metadataInputs`: _optional array_, a set of input fields as explained there.
 * `persistentCheckout`: _optional boolean_: `true` \_\_if the modal cannot be closed, defaults to `false` when embedded. When closed, the user will be redirected to the `redirect` query param when using a purchase address (see above).
