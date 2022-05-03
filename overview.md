@@ -7,7 +7,7 @@ layout: landing
 
 In a space that moves as fast as crypto, it is impossible to stay up to date with all the latest info, let alone find a platform with all of it. The Bakery DAO is a collective of anonymous crypto enthusiasts, researchers, and writers dedicated to finding the latest alpha.
 
-How do we do this? Entirely on-chain...
+This will become a collaborative research effort with the help of economic incentibes. How do we do this? Entirely on-chain...
 
 |         TIER        |                                                             ADDRESS                                                            | DURATION |
 | :-----------------: | :----------------------------------------------------------------------------------------------------------------------------: | :------: |
