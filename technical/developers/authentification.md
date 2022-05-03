@@ -1,3 +1,0 @@
-# AUTHENTIFICATION
-
-&#x20;
