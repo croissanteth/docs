@@ -14,4 +14,4 @@ Our pastry NFTs will be configured in many special ways... The beneficiary of th
 
 In the future, this will support a split, whereas revenue is split amongst all addresses holding a particular NFT. This will become especially useful for sharing of on-chain income as the Bakery grows and decentralizes...
 
-0xSplits turns us into the perpetual alpha-leaking machine.
+**0xSplits turns us into the perpetual alpha-leaking machine.**
