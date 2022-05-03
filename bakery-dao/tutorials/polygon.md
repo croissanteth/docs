@@ -1,8 +1,15 @@
+---
+description: >-
+  The Polygon network is a layer two network built to enable much cheaper
+  transactions while benefiting from the same security as the main Ethereum
+  network. Try it out now!
+---
+
 # 🔗 POLYGON
 
 ![Polygon Pastry](../../.gitbook/assets/39C014A3-2506-4BC4-B8E9-8B84DBD88561.png)
 
-Since many of you may wish to avoid unnecessarily high gas fees on the Ethereum network, we’ve contrived a simple explanation of how to get started with the Bakery DAO quickly and cheaply with a Ethereum wallet.
+Since many of you may wish to avoid unnecessarily high gas fees on the Ethereum network, we’ve contrived a simple explanation of how to get started with the Bakery DAO quickly and cheaply with a Ethereum wallet.&#x20;
 
 If you don’t have a Ethereum wallet, head over to Metamask.io to get started with their browser extension or mobile app. From there, select the network at the top of the page of the app.
 
