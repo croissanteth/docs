@@ -1,13 +1,10 @@
 ---
-description: >-
-  This function can optionally be called by the owner of a specific Pastry NFT.
-  It transfers time of the NFT membership to the address specified, functioning
-  as a "mini membership" for the recipient.
+description: This function can optionally be called by the owner of a specific BakeryNFT.
 ---
 
 # ⏱ LEND TIME
 
-Want to get your friend in on some of the latest alpha, but don't want to sell your NFT? No problem! The Pastry NFT is capable of being shared... This works by instead transferring time for the membership, rather than the actual token when called. Owners of Pastry NFTs can delegate their time to friends, family, or anyone with a Ethereum address through this.
+Want to get your friend in on some of the latest alpha, but don't want to sell your NFT? No problem! The pastry NFT is capable of being shared... This works by instead transferring time for the membership, rather than the actual token when called. Owners of Pastry NFTs can delegate their time to friends, family, or anyone with a Ethereum address through this.
 
 To share time for your membership, visit the Etherscan write smart contract pages for Pastry NFTs on Ethereum, Optimism, or Polygon.
 
