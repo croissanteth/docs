@@ -44,7 +44,7 @@ They have a limited supply of 2,222 tokens, and will be airdropped to the most a
 
 The mechanisms described above allow us to do some incredible things, and our NFTs can be integrated with content across any application the community wishes.&#x20;
 
-Right now, pastries are supported across the "research" and community section of our website, discord, discourse, cloudflare, telegram, shopify, newsletter, guild, snapshot, wordpress, and many more platforms!
+Right now, pastries are supported across the "research" and community section of our website, discord, discourse, cloudflare, telegram, shopify, newsletter, guild, snapshot, wordpress, and much more.
 
 ![Pastry NFT Integrations](.gitbook/assets/IMG\_8438.PNG)
 
