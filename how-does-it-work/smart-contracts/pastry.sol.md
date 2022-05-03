@@ -12,452 +12,181 @@ The [pastry.sol](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721) s
 
 ![Cloud Croissant](../../.gitbook/assets/croissantt.webp)
 
-```
-// SPDX-License-Identifier: MIT
-// OpenZeppelin Contracts (last updated v4.6.0) (token/ERC721/ERC721.sol)
+See [Open Zeppelin documentation](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721) for technical details of the smart contracts and all of their internal capabilities.
 
-pragma solidity ^0.8.0;
+**`constructor(string name_, string symbol_)`public**
 
-import "./IERC721.sol";
-import "./IERC721Receiver.sol";
-import "./extensions/IERC721Metadata.sol";
-import "../../utils/Address.sol";
-import "../../utils/Context.sol";
-import "../../utils/Strings.sol";
-import "../../utils/introspection/ERC165.sol";
+Initializes the contract by setting a `name` and a `symbol` to the token collection.
 
-/**
- * @dev Implementation of https://eips.ethereum.org/EIPS/eip-721[ERC721] Non-Fungible Token Standard, including
- * the Metadata extension, but not including the Enumerable extension, which is available separately as
- * {ERC721Enumerable}.
- */
-contract ERC721 is Context, ERC165, IERC721, IERC721Metadata {
-    using Address for address;
-    using Strings for uint256;
+**`balanceOf(address owner) → uint256`public**
 
-    // Token name
-    string private _name;
+See [`IERC721.balanceOf`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-balanceOf-address-).
 
-    // Token symbol
-    string private _symbol;
+**`ownerOf(uint256 tokenId) → address`public**
 
-    // Mapping from token ID to owner address
-    mapping(uint256 => address) private _owners;
+See [`IERC721.ownerOf`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-ownerOf-uint256-).
 
-    // Mapping owner address to token count
-    mapping(address => uint256) private _balances;
+**`name() → string`public**
 
-    // Mapping from token ID to approved address
-    mapping(uint256 => address) private _tokenApprovals;
+See [`IERC721Metadata.name`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721Metadata-name--).
 
-    // Mapping from owner to operator approvals
-    mapping(address => mapping(address => bool)) private _operatorApprovals;
+**`symbol() → string`public**
 
-    /**
-     * @dev Initializes the contract by setting a `name` and a `symbol` to the token collection.
-     */
-    constructor(string memory name_, string memory symbol_) {
-        _name = name_;
-        _symbol = symbol_;
-    }
+See [`IERC721Metadata.symbol`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721Metadata-symbol--).
 
-    /**
-     * @dev See {IERC165-supportsInterface}.
-     */
-    function supportsInterface(bytes4 interfaceId) public view virtual override(ERC165, IERC165) returns (bool) {
-        return
-            interfaceId == type(IERC721).interfaceId ||
-            interfaceId == type(IERC721Metadata).interfaceId ||
-            super.supportsInterface(interfaceId);
-    }
+**`tokenURI(uint256 tokenId) → string`public**
 
-    /**
-     * @dev See {IERC721-balanceOf}.
-     */
-    function balanceOf(address owner) public view virtual override returns (uint256) {
-        require(owner != address(0), "ERC721: address zero is not a valid owner");
-        return _balances[owner];
-    }
+See [`IERC721Metadata.tokenURI`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721Metadata-tokenURI-uint256-).
 
-    /**
-     * @dev See {IERC721-ownerOf}.
-     */
-    function ownerOf(uint256 tokenId) public view virtual override returns (address) {
-        address owner = _owners[tokenId];
-        require(owner != address(0), "ERC721: owner query for nonexistent token");
-        return owner;
-    }
+**`baseURI() → string`public**
 
-    /**
-     * @dev See {IERC721Metadata-name}.
-     */
-    function name() public view virtual override returns (string memory) {
-        return _name;
-    }
+Returns the base URI set via [`_setBaseURI`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#ERC721-\_setBaseURI-string-). This will be automatically added as a prefix in [`tokenURI`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#ERC721-tokenURI-uint256-) to each token’s URI, or to the token ID if no specific URI is set for that token ID.
 
-    /**
-     * @dev See {IERC721Metadata-symbol}.
-     */
-    function symbol() public view virtual override returns (string memory) {
-        return _symbol;
-    }
+**`tokenOfOwnerByIndex(address owner, uint256 index) → uint256`public**
 
-    /**
-     * @dev See {IERC721Metadata-tokenURI}.
-     */
-    function tokenURI(uint256 tokenId) public view virtual override returns (string memory) {
-        require(_exists(tokenId), "ERC721Metadata: URI query for nonexistent token");
+See [`IERC721Enumerable.tokenOfOwnerByIndex`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721Enumerable-tokenOfOwnerByIndex-address-uint256-).
 
-        string memory baseURI = _baseURI();
-        return bytes(baseURI).length > 0 ? string(abi.encodePacked(baseURI, tokenId.toString())) : "";
-    }
+**`totalSupply() → uint256`public**
 
-    /**
-     * @dev Base URI for computing {tokenURI}. If set, the resulting URI for each
-     * token will be the concatenation of the `baseURI` and the `tokenId`. Empty
-     * by default, can be overridden in child contracts.
-     */
-    function _baseURI() internal view virtual returns (string memory) {
-        return "";
-    }
+See [`IERC721Enumerable.totalSupply`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721Enumerable-totalSupply--).
 
-    /**
-     * @dev See {IERC721-approve}.
-     */
-    function approve(address to, uint256 tokenId) public virtual override {
-        address owner = ERC721.ownerOf(tokenId);
-        require(to != owner, "ERC721: approval to current owner");
+**`tokenByIndex(uint256 index) → uint256`public**
 
-        require(
-            _msgSender() == owner || isApprovedForAll(owner, _msgSender()),
-            "ERC721: approve caller is not owner nor approved for all"
-        );
+See [`IERC721Enumerable.tokenByIndex`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721Enumerable-tokenByIndex-uint256-).
 
-        _approve(to, tokenId);
-    }
+**`approve(address to, uint256 tokenId)`public**
 
-    /**
-     * @dev See {IERC721-getApproved}.
-     */
-    function getApproved(uint256 tokenId) public view virtual override returns (address) {
-        require(_exists(tokenId), "ERC721: approved query for nonexistent token");
+See [`IERC721.approve`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-approve-address-uint256-).
 
-        return _tokenApprovals[tokenId];
-    }
+**`getApproved(uint256 tokenId) → address`public**
 
-    /**
-     * @dev See {IERC721-setApprovalForAll}.
-     */
-    function setApprovalForAll(address operator, bool approved) public virtual override {
-        _setApprovalForAll(_msgSender(), operator, approved);
-    }
+See [`IERC721.getApproved`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-getApproved-uint256-).
 
-    /**
-     * @dev See {IERC721-isApprovedForAll}.
-     */
-    function isApprovedForAll(address owner, address operator) public view virtual override returns (bool) {
-        return _operatorApprovals[owner][operator];
-    }
+**`setApprovalForAll(address operator, bool approved)`public**
 
-    /**
-     * @dev See {IERC721-transferFrom}.
-     */
-    function transferFrom(
-        address from,
-        address to,
-        uint256 tokenId
-    ) public virtual override {
-        //solhint-disable-next-line max-line-length
-        require(_isApprovedOrOwner(_msgSender(), tokenId), "ERC721: transfer caller is not owner nor approved");
+See [`IERC721.setApprovalForAll`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-setApprovalForAll-address-bool-).
 
-        _transfer(from, to, tokenId);
-    }
+**`isApprovedForAll(address owner, address operator) → bool`public**
 
-    /**
-     * @dev See {IERC721-safeTransferFrom}.
-     */
-    function safeTransferFrom(
-        address from,
-        address to,
-        uint256 tokenId
-    ) public virtual override {
-        safeTransferFrom(from, to, tokenId, "");
-    }
+See [`IERC721.isApprovedForAll`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-isApprovedForAll-address-address-).
 
-    /**
-     * @dev See {IERC721-safeTransferFrom}.
-     */
-    function safeTransferFrom(
-        address from,
-        address to,
-        uint256 tokenId,
-        bytes memory _data
-    ) public virtual override {
-        require(_isApprovedOrOwner(_msgSender(), tokenId), "ERC721: transfer caller is not owner nor approved");
-        _safeTransfer(from, to, tokenId, _data);
-    }
+**`transferFrom(address from, address to, uint256 tokenId)`public**
 
-    /**
-     * @dev Safely transfers `tokenId` token from `from` to `to`, checking first that contract recipients
-     * are aware of the ERC721 protocol to prevent tokens from being forever locked.
-     *
-     * `_data` is additional data, it has no specified format and it is sent in call to `to`.
-     *
-     * This internal function is equivalent to {safeTransferFrom}, and can be used to e.g.
-     * implement alternative mechanisms to perform token transfer, such as signature-based.
-     *
-     * Requirements:
-     *
-     * - `from` cannot be the zero address.
-     * - `to` cannot be the zero address.
-     * - `tokenId` token must exist and be owned by `from`.
-     * - If `to` refers to a smart contract, it must implement {IERC721Receiver-onERC721Received}, which is called upon a safe transfer.
-     *
-     * Emits a {Transfer} event.
-     */
-    function _safeTransfer(
-        address from,
-        address to,
-        uint256 tokenId,
-        bytes memory _data
-    ) internal virtual {
-        _transfer(from, to, tokenId);
-        require(_checkOnERC721Received(from, to, tokenId, _data), "ERC721: transfer to non ERC721Receiver implementer");
-    }
+See [`IERC721.transferFrom`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-transferFrom-address-address-uint256-).
 
-    /**
-     * @dev Returns whether `tokenId` exists.
-     *
-     * Tokens can be managed by their owner or approved accounts via {approve} or {setApprovalForAll}.
-     *
-     * Tokens start existing when they are minted (`_mint`),
-     * and stop existing when they are burned (`_burn`).
-     */
-    function _exists(uint256 tokenId) internal view virtual returns (bool) {
-        return _owners[tokenId] != address(0);
-    }
+**`safeTransferFrom(address from, address to, uint256 tokenId)`public**
 
-    /**
-     * @dev Returns whether `spender` is allowed to manage `tokenId`.
-     *
-     * Requirements:
-     *
-     * - `tokenId` must exist.
-     */
-    function _isApprovedOrOwner(address spender, uint256 tokenId) internal view virtual returns (bool) {
-        require(_exists(tokenId), "ERC721: operator query for nonexistent token");
-        address owner = ERC721.ownerOf(tokenId);
-        return (spender == owner || isApprovedForAll(owner, spender) || getApproved(tokenId) == spender);
-    }
+See [`IERC721.safeTransferFrom`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-safeTransferFrom-address-address-uint256-bytes-).
 
-    /**
-     * @dev Safely mints `tokenId` and transfers it to `to`.
-     *
-     * Requirements:
-     *
-     * - `tokenId` must not exist.
-     * - If `to` refers to a smart contract, it must implement {IERC721Receiver-onERC721Received}, which is called upon a safe transfer.
-     *
-     * Emits a {Transfer} event.
-     */
-    function _safeMint(address to, uint256 tokenId) internal virtual {
-        _safeMint(to, tokenId, "");
-    }
+**`safeTransferFrom(address from, address to, uint256 tokenId, bytes _data)`public**
 
-    /**
-     * @dev Same as {xref-ERC721-_safeMint-address-uint256-}[`_safeMint`], with an additional `data` parameter which is
-     * forwarded in {IERC721Receiver-onERC721Received} to contract recipients.
-     */
-    function _safeMint(
-        address to,
-        uint256 tokenId,
-        bytes memory _data
-    ) internal virtual {
-        _mint(to, tokenId);
-        require(
-            _checkOnERC721Received(address(0), to, tokenId, _data),
-            "ERC721: transfer to non ERC721Receiver implementer"
-        );
-    }
+See [`IERC721.safeTransferFrom`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-safeTransferFrom-address-address-uint256-bytes-).
 
-    /**
-     * @dev Mints `tokenId` and transfers it to `to`.
-     *
-     * WARNING: Usage of this method is discouraged, use {_safeMint} whenever possible
-     *
-     * Requirements:
-     *
-     * - `tokenId` must not exist.
-     * - `to` cannot be the zero address.
-     *
-     * Emits a {Transfer} event.
-     */
-    function _mint(address to, uint256 tokenId) internal virtual {
-        require(to != address(0), "ERC721: mint to the zero address");
-        require(!_exists(tokenId), "ERC721: token already minted");
+**`_safeTransfer(address from, address to, uint256 tokenId, bytes _data)`internal**
 
-        _beforeTokenTransfer(address(0), to, tokenId);
+Safely transfers `tokenId` token from `from` to `to`, checking first that contract recipients are aware of the ERC721 protocol to prevent tokens from being forever locked.
 
-        _balances[to] += 1;
-        _owners[tokenId] = to;
+`_data` is additional data, it has no specified format and it is sent in call to `to`.
 
-        emit Transfer(address(0), to, tokenId);
+This internal function is equivalent to [`safeTransferFrom`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#ERC721-safeTransferFrom-address-address-uint256-bytes-), and can be used to e.g. implement alternative mechanisms to perform token transfer, such as signature-based.
 
-        _afterTokenTransfer(address(0), to, tokenId);
-    }
+**Requirements:**
 
-    /**
-     * @dev Destroys `tokenId`.
-     * The approval is cleared when the token is burned.
-     *
-     * Requirements:
-     *
-     * - `tokenId` must exist.
-     *
-     * Emits a {Transfer} event.
-     */
-    function _burn(uint256 tokenId) internal virtual {
-        address owner = ERC721.ownerOf(tokenId);
+* `from` cannot be the zero address.
+* `to` cannot be the zero address.
+* `tokenId` token must exist and be owned by `from`.
+* If `to` refers to a smart contract, it must implement [`IERC721Receiver.onERC721Received`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721Receiver-onERC721Received-address-address-uint256-bytes-), which is called upon a safe transfer.
 
-        _beforeTokenTransfer(owner, address(0), tokenId);
+Emits a [`Transfer`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-Transfer-address-address-uint256-) event.
 
-        // Clear approvals
-        _approve(address(0), tokenId);
+**`_exists(uint256 tokenId) → bool`internal**
 
-        _balances[owner] -= 1;
-        delete _owners[tokenId];
+Returns whether `tokenId` exists.
 
-        emit Transfer(owner, address(0), tokenId);
+Tokens can be managed by their owner or approved accounts via [`approve`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#ERC721-approve-address-uint256-) or [`setApprovalForAll`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#ERC721-setApprovalForAll-address-bool-).
 
-        _afterTokenTransfer(owner, address(0), tokenId);
-    }
+Tokens start existing when they are minted (`_mint`), and stop existing when they are burned (`_burn`).
 
-    /**
-     * @dev Transfers `tokenId` from `from` to `to`.
-     *  As opposed to {transferFrom}, this imposes no restrictions on msg.sender.
-     *
-     * Requirements:
-     *
-     * - `to` cannot be the zero address.
-     * - `tokenId` token must be owned by `from`.
-     *
-     * Emits a {Transfer} event.
-     */
-    function _transfer(
-        address from,
-        address to,
-        uint256 tokenId
-    ) internal virtual {
-        require(ERC721.ownerOf(tokenId) == from, "ERC721: transfer from incorrect owner");
-        require(to != address(0), "ERC721: transfer to the zero address");
+**`_isApprovedOrOwner(address spender, uint256 tokenId) → bool`internal**
 
-        _beforeTokenTransfer(from, to, tokenId);
+Returns whether `spender` is allowed to manage `tokenId`.
 
-        // Clear approvals from the previous owner
-        _approve(address(0), tokenId);
+Requirements:
 
-        _balances[from] -= 1;
-        _balances[to] += 1;
-        _owners[tokenId] = to;
+* `tokenId` must exist.
 
-        emit Transfer(from, to, tokenId);
+**`_safeMint(address to, uint256 tokenId)`internal**
 
-        _afterTokenTransfer(from, to, tokenId);
-    }
+Safely mints `tokenId` and transfers it to `to`.
 
-    /**
-     * @dev Approve `to` to operate on `tokenId`
-     *
-     * Emits a {Approval} event.
-     */
-    function _approve(address to, uint256 tokenId) internal virtual {
-        _tokenApprovals[tokenId] = to;
-        emit Approval(ERC721.ownerOf(tokenId), to, tokenId);
-    }
+Requirements: d\* - `tokenId` must not exist. - If `to` refers to a smart contract, it must implement [`IERC721Receiver.onERC721Received`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721Receiver-onERC721Received-address-address-uint256-bytes-), which is called upon a safe transfer.
 
-    /**
-     * @dev Approve `operator` to operate on all of `owner` tokens
-     *
-     * Emits a {ApprovalForAll} event.
-     */
-    function _setApprovalForAll(
-        address owner,
-        address operator,
-        bool approved
-    ) internal virtual {
-        require(owner != operator, "ERC721: approve to caller");
-        _operatorApprovals[owner][operator] = approved;
-        emit ApprovalForAll(owner, operator, approved);
-    }
+Emits a [`Transfer`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-Transfer-address-address-uint256-) event.
 
-    /**
-     * @dev Internal function to invoke {IERC721Receiver-onERC721Received} on a target address.
-     * The call is not executed if the target address is not a contract.
-     *
-     * @param from address representing the previous owner of the given token ID
-     * @param to target address that will receive the tokens
-     * @param tokenId uint256 ID of the token to be transferred
-     * @param _data bytes optional data to send along with the call
-     * @return bool whether the call correctly returned the expected magic value
-     */
-    function _checkOnERC721Received(
-        address from,
-        address to,
-        uint256 tokenId,
-        bytes memory _data
-    ) private returns (bool) {
-        if (to.isContract()) {
-            try IERC721Receiver(to).onERC721Received(_msgSender(), from, tokenId, _data) returns (bytes4 retval) {
-                return retval == IERC721Receiver.onERC721Received.selector;
-            } catch (bytes memory reason) {
-                if (reason.length == 0) {
-                    revert("ERC721: transfer to non ERC721Receiver implementer");
-                } else {
-                    assembly {
-                        revert(add(32, reason), mload(reason))
-                    }
-                }
-            }
-        } else {
-            return true;
-        }
-    }
+**`_safeMint(address to, uint256 tokenId, bytes _data)`internal**
 
-    /**
-     * @dev Hook that is called before any token transfer. This includes minting
-     * and burning.
-     *
-     * Calling conditions:
-     *
-     * - When `from` and `to` are both non-zero, ``from``'s `tokenId` will be
-     * transferred to `to`.
-     * - When `from` is zero, `tokenId` will be minted for `to`.
-     * - When `to` is zero, ``from``'s `tokenId` will be burned.
-     * - `from` and `to` are never both zero.
-     *
-     * To learn more about hooks, head to xref:ROOT:extending-contracts.adoc#using-hooks[Using Hooks].
-     */
-    function _beforeTokenTransfer(
-        address from,
-        address to,
-        uint256 tokenId
-    ) internal virtual {}
+Same as [`_safeMint`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#ERC721-\_safeMint-address-uint256-), with an additional `data` parameter which is forwarded in [`IERC721Receiver.onERC721Received`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721Receiver-onERC721Received-address-address-uint256-bytes-) to contract recipients.
 
-    /**
-     * @dev Hook that is called after any transfer of tokens. This includes
-     * minting and burning.
-     *
-     * Calling conditions:
-     *
-     * - when `from` and `to` are both non-zero.
-     * - `from` and `to` are never both zero.
-     *
-     * To learn more about hooks, head to xref:ROOT:extending-contracts.adoc#using-hooks[Using Hooks].
-     */
-    function _afterTokenTransfer(
-        address from,
-        address to,
-        uint256 tokenId
-    ) internal virtual {}
-}
-```
+**`_mint(address to, uint256 tokenId)`internal**
+
+Mints `tokenId` and transfers it to `to`.
+
+Requirements:
+
+* `tokenId` must not exist.
+* `to` cannot be the zero address.
+
+Emits a [`Transfer`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-Transfer-address-address-uint256-) event.
+
+**`_burn(uint256 tokenId)`internal**
+
+Destroys `tokenId`. The approval is cleared when the token is burned.
+
+Requirements:
+
+* `tokenId` must exist.
+
+Emits a [`Transfer`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-Transfer-address-address-uint256-) event.
+
+**`_transfer(address from, address to, uint256 tokenId)`internal**
+
+Transfers `tokenId` from `from` to `to`. As opposed to [`transferFrom`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#ERC721-transferFrom-address-address-uint256-), this imposes no restrictions on msg.sender.
+
+Requirements:
+
+* `to` cannot be the zero address.
+* `tokenId` token must be owned by `from`.
+
+Emits a [`Transfer`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-Transfer-address-address-uint256-) event.
+
+**`_setTokenURI(uint256 tokenId, string _tokenURI)`internal**
+
+Sets `_tokenURI` as the tokenURI of `tokenId`.
+
+Requirements:
+
+* `tokenId` must exist.
+
+**`_setBaseURI(string baseURI_)`internal**
+
+Internal function to set the base URI for all token IDs. It is automatically added as a prefix to the value returned in [`tokenURI`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#ERC721-tokenURI-uint256-), or to the token ID if [`tokenURI`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#ERC721-tokenURI-uint256-) is empty.
+
+**`_approve(address to, uint256 tokenId)`internal**
+
+Approve `to` to operate on `tokenId`
+
+Emits an [`Approval`](https://docs.openzeppelin.com/contracts/3.x/api/token/erc721#IERC721-Approval-address-address-uint256-) event.
+
+**`_beforeTokenTransfer(address from, address to, uint256 tokenId)`internal**
+
+Hook that is called before any token transfer. This includes minting and burning.
+
+Calling conditions:
+
+* When `from` and `to` are both non-zero, `from`'s `tokenId` will be transferred to `to`.
+* When `from` is zero, `tokenId` will be minted for `to`.
+* When `to` is zero, `from`'s `tokenId` will be burned.
+* `from` cannot be the zero address.
+* `to` cannot be the zero address.
+
+To learn more about hooks, head to [Using Hooks](https://docs.openzeppelin.com/contracts/3.x/extending-contracts#using-hooks).
