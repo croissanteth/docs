@@ -6,7 +6,7 @@ description: >-
 
 # 🔌 LOGGING IN
 
-The Pastry NFT is proud to be using an implementation of the [Sign-In With Ethereum](https://docs.unlock-protocol.com/unlock/developers/sign-in-with-ethereum) ([EIP4361](https://eips.ethereum.org/EIPS/eip-4361)) specification! Allow us to explain what this is and why it is so powerful...
+The Pastry NFT is proud to be using an implementation of the [Sign-In With Ethereum](https://docs.unlock-protocol.com/unlock/developers/sign-in-with-ethereum) ([EIP4361](https://eips.ethereum.org/EIPS/eip-4361)) specification! This is the most secure and powerful EIP for web3 to date. Allow us to explain what this is and why it is so powerful...
 
 ![Bakery DAO Login](../../.gitbook/assets/9EB5DA25-D887-4100-ABAD-318DB70C02F8.jpeg)
 

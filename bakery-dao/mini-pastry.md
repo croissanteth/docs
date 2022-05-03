@@ -1,5 +1,7 @@
 ---
-description: You will never be priced out of the Bakery.
+description: >-
+  You will never be priced out of the Bakery. Our group will remain affordable,
+  and exclusive with our token economics design model.
 ---
 
 # 🍨 MINI PASTRY
