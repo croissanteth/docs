@@ -1,5 +1,7 @@
 # TUTORIALS
 
+Your "go-to" page for all of the simple tutorials when first taking a bite into the pastry ecosystem. Visit any of the sections below for a step by step tutorial of the desired action, and get started with everything without the hassle.
+
 {% content-ref url="logging-in.md" %}
 [logging-in.md](logging-in.md)
 {% endcontent-ref %}
