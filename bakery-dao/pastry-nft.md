@@ -12,9 +12,9 @@ Instead of just a cute little spinning pastry, these NFTs actually have a wide r
 
 **Refunds** - Not a fan of our content? That's okay! Get a pro-rated refund within a specific time frame and get all of your funds back instantly by simply burning NFT!
 
-**Gas** **Refunds** - The newest version of the Pastry NFTS now automatically refund a portion of gas upon purchase, on top of the already minted Unlock Discount Tokens. This has reduced gas costs for users tremendously.
+**Gas** **Refunds** - The newest version of the Pastry NFTs now automatically refund a portion of gas upon purchase, on top of the already minted Unlock Discount Tokens. This has reduced gas costs for users tremendously.
 
-**Layer** **Two** - Pastry NFTs are deployed on several layer two networks, and this will continue to grow as more scalability solutions released. Right now they are live on Optimism + the Ethereum mainnet. Arbitrum support is coming soon.
+**Layer** **Two** - Pastry NFTs are deployed on several layer two networks, and this will continue to grow as more scalability solutions released. Right now they are live on Optimism, Polygon, and the Ethereum mainnet. Arbitrum support is coming soon.
 
 **Hooks** - These are smart contract extensions that allow us to customize the behavior of the Pastry NFTs upon purchase. This can include things like discount codes, variably-priced NFTs, or even include a check to determine whether or not a user is valid member off of arbitrary logic that we define beforehand.
 
