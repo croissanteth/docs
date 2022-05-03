@@ -10,11 +10,11 @@ layout: editorial
 
 # GETTING STARTED
 
-## Bakery DAO   <a href="#bakerydao" id="bakerydao"></a>
+## What is the Bakery DAO?  <a href="#bakerydao" id="bakerydao"></a>
 
-The Bakery is an experiment with web 3.0. We are giving the power to readers, and the community. Pastry NFTs act as "platform-less" memberships on the blockchain, granting members access to more than ten different applications for the Bakery. With the use of cryptographic signatures and a bit of web3 magic, we provide exclusive DeFi research.
+The Bakery is an experiment with web 3.0. We are giving the power to readers, and the community for the first time ever. Pastry NFTs act as "platform-less" memberships on the blockchain, granting members access to more than ten different applications for the Bakery. With the use of cryptographic signatures and a bit of web3 magic, we provide an exclusive DeFi researching ecosystem.
 
-Users can post, collaborate, and keep up to date with all of the alpha in DeFi.
+Users can make their own posts, collaborate with others, and keep up to date with all of the alpha in DeFi here. Pastries can work to build up their attested reputation on the platforms, by simply just dropping hot alpha.
 
 Thanks to the simplicity of "Sign In With Ethereum" specification, we are able to do all of this in a UX that is unmatched! Check out an example on our website below:
 
