@@ -1,5 +1,9 @@
 # 🪙 ERC721BalanceOfHook.sol
 
+This smart contract is a special hook contract which is used for the verification process on all of our applications. It is configured with the exclusive non-expiring Pastry NFTs to forever grant them as valid members across all integrations.
+
+Additionally, this contract may be set up in ways to create unique web3 partnerships formed by the community.
+
 ```
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.2;
