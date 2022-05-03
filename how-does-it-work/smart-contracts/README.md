@@ -16,9 +16,7 @@ Underneath the surface, the [BakeryDAO](https://bakery.fyi) consists of more tha
 
 The main smart contracts in our case are responsible for keeping track of Bakery NFT ownership by address. These are named:
 
-Unlock.sol -  a factory contract for deploying memberships with many customization parameters
-
-[PublicLock.sol](publiclock.sol.md) - the BakeryNFTs, which we use for token-gating special research pages on the website, and more!
+[PublicLock.sol](publiclock.sol.md) - the Pastry NFTs, which we use for token-gating special research pages on the website, and more!
 
 [Pastry.sol](pastry.sol.md) (coming soon) - VIP BakeryDAO members, unlimited subscription to the BakeryDAO, limited supply
 
@@ -32,6 +30,10 @@ Unlock.sol -  a factory contract for deploying memberships with many customizati
 
 Now that we have a basic understanding of what we're dealing with, let's get our hands dirty in some of the important smart contracts that are listed here...
 
+{% content-ref url="../../technical/smart-contracts/erc721minter.sol.md" %}
+[erc721minter.sol.md](../../technical/smart-contracts/erc721minter.sol.md)
+{% endcontent-ref %}
+
 {% content-ref url="publiclock.sol.md" %}
 [publiclock.sol.md](publiclock.sol.md)
 {% endcontent-ref %}
@@ -40,3 +42,14 @@ Now that we have a basic understanding of what we're dealing with, let's get our
 [pastry.sol.md](pastry.sol.md)
 {% endcontent-ref %}
 
+{% content-ref url="sdaoregistrar.sol.md" %}
+[sdaoregistrar.sol.md](sdaoregistrar.sol.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../technical/smart-contracts/erc721balanceofhook.sol.md" %}
+[erc721balanceofhook.sol.md](../../technical/smart-contracts/erc721balanceofhook.sol.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../technical/smart-contracts/keypurchaser.sol.md" %}
+[keypurchaser.sol.md](../../technical/smart-contracts/keypurchaser.sol.md)
+{% endcontent-ref %}

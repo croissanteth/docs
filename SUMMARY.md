@@ -44,4 +44,3 @@
   * [SUBGRAPHS](technical/developers/subgraphs.md)
   * [LOCKING CONTENT](technical/developers/locking-content.md)
   * [RUNNING LOCALLY](technical/checkout/authentification.md)
-* [SIGN IN WITH ETHEREUM](how-does-it-work/sign-in-with-ethereum.md)
