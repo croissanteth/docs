@@ -7,9 +7,9 @@ description: >-
 
 # 🛡 GUILD
 
-This is our web3 Guild. It acts as our link between web2 and web3. Guilds help break the barrier between the two with the use of zero-knowledge proofs, keeping the links between profiles and wallets discreet using zero-knowledge proofs technology. To join the BakeryDAO guild, head to [https://guild.xyz/bakerydao](https://guild.xyz/bakerydao)!
+This is our web3 Guild. It acts as our link between web2 and web3. Guild XYZ helps break the barrier between the two with the use of zero-knowledge proofs, while keeping the links between profiles and wallets discreet.&#x20;
 
-You will see a page that looks like this:
+To join the BakeryDAO guild, head to [https://guild.xyz/bakerydao](https://guild.xyz/bakerydao)! You will see a page that looks like this:
 
 ![Bakery Guild Page](../../.gitbook/assets/chrome\_WgoXzokZ4Z.png)
 
