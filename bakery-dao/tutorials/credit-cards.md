@@ -10,6 +10,6 @@ Getting started with a credit card:
 
 Visit any locked page on the [Pastry XYZ](https://pastry.xyz) website, or hit login at the top right to be prompted with the checkout screen for the Bakery. From this screen, instead of hitting the wallet button on the left, hit "purchase with a credit card."
 
-![Credit Card Checkout](../../.gitbook/assets/41DFE642-032B-4DD4-944A-1CC09B908F76.jpeg)
+Then, enter the details required for the particular purchase. This information is stored securely in private NFT metadata.
 
-While you are waiting for Stripe's final approval, you can perform the last step: giving Unlock Inc. the ability to grant keys to users whose credit card payment has been successfully processed (see [roles](https://docs.unlock-protocol.com/developers/smart-contracts/lock-api/access-control)). Once Unlock Inc. has charged your member's card, we will then send them the NFT so that they can use it to prove their membership. In order to do this, we need a lock manager to grant us the role of "key granting". This role can be revoked at any point (but this will disable credit card payments) and we do not receive any permission or capability on your lock.
+![Credit Card Checkout](../../.gitbook/assets/41DFE642-032B-4DD4-944A-1CC09B908F76.jpeg)
