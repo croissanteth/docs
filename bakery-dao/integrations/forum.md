@@ -6,7 +6,7 @@ description: >-
 
 # 🥐 FORUM
 
-Get started with [The Bake Community](https://bake.community) on Discourse! This is the main spot for discussing what's new in the ecosystem regarding proposal, governance, development, and partnerships! As a first time visitor, the page will look something like this...
+Get started with [The Bake Community](https://bake.community) on Discourse! This is the main spot for discussing what's new in the ecosystem regarding proposals, governance, development, and partnerships! As a first time visitor, the page will look something like this...
 
 ![Bakery Forum](<../../.gitbook/assets/image (6) (1) (1).png>)
 
