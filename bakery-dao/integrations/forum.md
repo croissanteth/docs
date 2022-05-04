@@ -20,7 +20,7 @@ From here, connect to you Ethereum wallet and continue with the purchase of the 
 
 ![Bakery Checkout](<../../.gitbook/assets/image (7) (1) (1).png>)
 
-Congratulations! You are now a member of the Bakery and can benefit from all of its features! Members of the Bakery will be granted full access to posting on the community-powered forum for proposals and governance.
+Congratulations! You are now a member of the pastry forum and can benefit from all of its features! Members of the Bakery will be granted full access to posting on the community-powered forum for proposals and governance.
 
 ![Bakery Membership Verified](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
