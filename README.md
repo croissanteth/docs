@@ -20,9 +20,9 @@ Thanks to the simplicity of "Sign In With Ethereum" specification, we are able t
 
 ![](<.gitbook/assets/pastryvid\_1nDNNLa4 (1).gif>)
 
-Holders of Pastry NFTs are the owners of the ecosystem, able to vote on a growing number of parameters as the protocol decentralizes. In the future, these NFTs will even entitle some users to a portion of revenue generated.
+Holders of Pastry NFTs are the owners of the Bakery, able to vote on a growing number of parameters as the protocol decentralizes. In the future, certain NFTs will even entitle some users to a portion of revenue generated. Ownership in the protocol facilitates direction while loading up incentives.
 
-Users with them are able to contribute to the research provided in the Bakery, create their own profile, build up their attested reputation, and benefit from their effort with the underlying NFT and the revenue it generates.
+Users with NFTs are able to contribute to the research provided in the Bakery, create their own profile, build up their attested reputation, and benefit from their effort with the underlying NFT and the revenue it generates.
 
 **There are two "tiers" for memberships**.
 
