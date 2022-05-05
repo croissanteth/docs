@@ -42,7 +42,7 @@ They have a limited supply of 2,222 tokens, and will be airdropped to the most a
 
 ![Pastry VIP Membership](<.gitbook/assets/pastryvip (1).png>)
 
-The mechanisms described above allow us to do some incredible things, and our NFTs can be integrated with content across any application the community wants to build on.&#x20;
+The mechanisms described above allow us to do some incredible things, and our NFTs can be integrated with content across any application the community wishes.&#x20;
 
 Right now, pastries are supported across the "research" and "community" sections of our website, discord, discourse, cloudflare, telegram, shopify, newsletter, guild, snapshot, wordpress, and much more.
 
@@ -50,9 +50,9 @@ Right now, pastries are supported across the "research" and "community" sections
 
 The goal with this is to build up a powerful group of researchers, builders, and thought leaders with the help of digital ownership and crypto-economic incentives. We are putting the power at the hands of the readers.
 
-Our community will be inclined to share content and help research, while the Chefs will be incentivized to create their best work. **It's a powerful combination.**
+Our community will be inclined to share content and help research, while the Chef's will be incentivized to create their best work. **It's a powerful combination.**
 
-The integrations simply require a keccak256 signature from a user's Ethereum address, to be granted access and redirected back to the relevant URL if they are a valid member of the Bakery.
+Our applications simply require a keccak256 signature from the user's Ethereum address, and then they will be granted access and redirected back to the relevant URL if they are a valid member of the Bakery.
 
 **This process is completely secure, takes seconds to do, and does not incur gas fees**!
 
