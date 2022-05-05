@@ -18,3 +18,5 @@ If you already have a Pastry NFT membership, click in the top right where it say
 From there, you will be asked to connect the wallet. Once connected, it will prompt you to sign a message in your wallet, with a link acquired from Discord. After signing, it will automatically detect which Bakery DAO memberships you have and grant you roles accordingly based on which link you followed the account from.
 
 We currently use Guild to lock access to more than 40 secret channels across our Discord, only available to members of the Bakery.
+
+There are three roles that are "token-gated" accordingly by ownership of different Pastry NFTs. This lets us pick and choose different special parameters for customization.

@@ -11,3 +11,5 @@ First, we must clarify one thing. The Bakery DAO consists of holders of the Bake
 Having a membership to the Bakery is not the same as being a member of the Bakery DAO, with governance powers.&#x20;
 
 A large majority of the Pastry VIP supply will be airdropped to the most active subscribers of the Pastry NFTs upon launch. This will ensure that community members know how to use the Bakery and have its best interests in mind.
+
+Similarly, our governance token will be distributed retroactively to the DAO members.
