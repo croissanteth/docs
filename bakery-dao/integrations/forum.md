@@ -20,8 +20,8 @@ From here, connect to you Ethereum wallet and continue with the purchase of the 
 
 ![Bakery Checkout](<../../.gitbook/assets/image (7) (1) (1).png>)
 
-Congratulations! You are now a member of the pastry forum and can benefit from all of its features! Members of the Bakery will be granted full access to posting on the community-powered forum for proposals and governance.
+Congratulations! You are now a member of the pastry forum and can benefit from all of its content! Holders of Pastry NFTs are granted full access to posting on this community-powered forum for proposals and governance.
 
 ![Bakery Membership Verified](<../../.gitbook/assets/image (5) (1) (1) (1).png>)
 
-If you have any questions, feel free to ask the administrators on any of the platforms we are integrated with!
+If you have any questions about this, feel free to reach out and ask the Chefs!
