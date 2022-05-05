@@ -12,8 +12,6 @@ Underneath the surface, the [BakeryDAO](https://bakery.fyi) consists of more tha
 
 ![BakeryDAO Visualized](../../.gitbook/assets/boards.png)
 
-These smart contracts are named:
-
 [PublicLock.sol](publiclock.sol.md) - the Pastry NFTs, which we use for token-gating special research pages on the website, and more!
 
 [Pastry.sol](pastry.sol.md) (coming soon) - VIP  members, unlimited time subscription to the BakeryDAO, limited supply (2,222)
