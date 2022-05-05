@@ -18,7 +18,7 @@ Underneath the surface, the [BakeryDAO](https://bakery.fyi) consists of more tha
 
 **Then there are some miscellaneous contracts we use, that are equally exciting:**
 
-****[SDaoRegistrar.sol](https://github.com/sismo-core/ens-sdao) (coming soon) - kick start your own ENS subdomain DAO with this awesome contract!
+****[SDaoRegistrar.sol](https://github.com/sismo-core/ens-sdao) (coming soon) - an ENS subdomain which mints a ERC-721 token upon registration
 
 [KeyPurchaser.sol](https://github.com/unlock-protocol/unlock/blob/master/smart-contract-extensions/contracts/KeyPurchaserFactory.sol) - used to approve specific addresses to spend a certain amount of x token at x time, useful for credit card purchases, and recurring members.
 
