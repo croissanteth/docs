@@ -37,6 +37,6 @@ Furthermore, every pastry has the option to add their own research reports locke
 
 ![My Blogs Page](../../.gitbook/assets/FFEF2D1A-2306-4FE7-9D56-4C3438045ADA.jpeg)
 
-These community-written articles will be displayed on the "Community" section of the navigation menu, as token-gated articles for only pastries to view! In the future we will expand customization options for creators to choose their own parameters for monetization.
+These community-written articles will be displayed on the "Community" section page under the navigation menu, acting as token-gated articles for only pastries to view! In the future we will expand customization options for creators to choose their own parameters for monetization. The checkout can be personally configured.
 
 We use cookies and cryptographic signatures to verify members of the site, and serve different content based on server-side props passed from the browser. This allows for a seamless and unbeatable UX!
