@@ -19,4 +19,4 @@ From there, you will be asked to connect the wallet. Once connected, it will pro
 
 We currently use Guild to lock access to more than 40 secret channels across our Discord, only available to members of the Bakery.
 
-There are three roles that are "token-gated" accordingly by ownership of different Pastry NFTs. This lets us pick and choose different special parameters for customization.
+There are three roles that are "token-gated" accordingly by ownership of different Pastry NFTs. This lets us pick and choose different access control models.
