@@ -22,6 +22,8 @@ After browsing all of the items you wish to purchase, navigate to the final chec
 
 If everything looks correct for your order, you can begin to enter the necessary information to receive your items. Congratulations! You now have some DeFi swag...
 
+![GM Sweatshirt](../../.gitbook/assets/gmm.png) ![Sushi T-Shirt](../../.gitbook/assets/SUSHIOUT-BLK.png)
+
 The next deployment of the Bakery Shop will be a slight bit more "web3 friendly." What does this mean? The Chefs are actually working to build out a store powered by the blockchain.
 
 Items are NFTs. Like [unisocks](https://unisocks.exchange), they can be burnt to redeem the physical items and have them shipped. This will require a special checkout configuration involving private NFT metadata signed by the user that is attributed to each NFT.
