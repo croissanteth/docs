@@ -48,7 +48,7 @@ Right now, pastries are supported across the "research" and "community" sections
 
 ![Pastry NFT Integrations](.gitbook/assets/IMG\_8438.PNG)
 
-The goal with this is to build up a powerful group of researchers, builders, and thought leaders with the help of digital ownership and crypto-economic incentives. We are putting the power at the hands of the readers.
+The goal with this is to build up a powerful group of researchers, builders, and thought leaders with the help of digital ownership and crypto-economic incentives.
 
 Our community will be inclined to share content and help research, while the Chefs will be incentivized to create their best work. **It's a powerful combination.**
 
