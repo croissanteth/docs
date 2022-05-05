@@ -8,17 +8,15 @@ coverY: 0
 
 # SMART CONTRACTS
 
-Although it seems like it's just an innocent little croissant GIF, it is actually a lot more than that on the back-end. We can't just go running and diving in head first without getting at least somewhat familiar with the Bakery...
+Underneath the surface, the [BakeryDAO](https://bakery.fyi) consists of more than six main contracts at this time. Some of them leverage [Unlock Protocol](https://unlock-protocol.com) for NFT memberships, some of them leverage [0xSplits](https://0xsplits.xyz) for on-chain revenue splitting, and some use subdomain DAO contracts created by [Sismo DAO](https://sismo.io).
 
-![BakeryDAO Ecosystem](../../.gitbook/assets/boards.png)
+![BakeryDAO Visualized](../../.gitbook/assets/boards.png)
 
-Underneath the surface, the [BakeryDAO](https://bakery.fyi) consists of more than six main contracts (at the time of this writing). Some of them leverage [Unlock Protocol](https://unlock-protocol.com) for expiring NFTs which act as memberships on the blockchain. In the future there will be many more including governance contracts, as well as even a Bakery ERC-20 token to add on top of these.
-
-The main smart contracts in our case are responsible for keeping track of Bakery NFT ownership by address. These are named:
+These smart contracts are named:
 
 [PublicLock.sol](publiclock.sol.md) - the Pastry NFTs, which we use for token-gating special research pages on the website, and more!
 
-[Pastry.sol](pastry.sol.md) (coming soon) - VIP BakeryDAO members, unlimited subscription to the BakeryDAO, limited supply
+[Pastry.sol](pastry.sol.md) (coming soon) - VIP  members, unlimited time subscription to the BakeryDAO, limited supply (2,222)
 
 **Then there are some miscellaneous contracts we use, that are equally exciting:**
 
