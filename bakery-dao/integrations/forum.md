@@ -8,7 +8,7 @@ description: >-
 
 Get started with [The Bake Community](https://bake.community) on Discourse! This is the main spot for discussing what's new in the ecosystem regarding proposals, governance, development, and partnerships! As a first time visitor, the page will look something like this...
 
-![Bakery Forum](<../../.gitbook/assets/image (6) (1) (1).png>)
+![Bakery Forum](<../../.gitbook/assets/image (6) (1) (1) (1).png>)
 
 In the top right corner, you’ll see options to login or sign up for the site to begin posting. Sign up here or login to your existing discourse account to continue.
 

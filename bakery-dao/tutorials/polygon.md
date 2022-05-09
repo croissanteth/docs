@@ -21,7 +21,7 @@ You will see a screen like this (minus a few networks if you haven’t connected
 
 Next, you'll see a page where you can enter in the specific connection parameters, and you’re nearly done!
 
-![Configure Network Page](<../../.gitbook/assets/image (11) (1).png>)
+![Configure Network Page](<../../.gitbook/assets/image (11) (1) (1).png>)
 
 Enter these items in the details, then hit “Save.”
 
