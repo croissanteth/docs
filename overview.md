@@ -2,7 +2,6 @@
 description: >-
   Into the pastry-verse. Discover alpha and breadcrumbs right at the tip of your
   fingertips with the true power of web3 and NFTs.
-layout: landing
 ---
 
 # SYSTEM OVERVIEW
@@ -62,7 +61,7 @@ This will become a collaborative research effort with the help of economic incen
 
 | MAINNET                                                | OPTIMISM                                         | POLYGON                                          |
 | ------------------------------------------------------ | ------------------------------------------------ | ------------------------------------------------ |
-| [https://pastry.xyz/](https://pastry.xyz)              | [https://pastry.xyz/](https://pastry.xyz)        | [https://pastry.xyz](https://pastry.xyz)         |
+| [https://pastry.xyz/](https://pastry.xyz/)             | [https://pastry.xyz/](https://pastry.xyz/)       | [https://pastry.xyz](https://pastry.xyz)         |
 | [discord](https://discord.gg/bakerydao)                | [discord](https://discord.gg/bakerydao)          | [discord](https://discord.gg/bakerydao)          |
 | [discourse](https://forum.pastry.xyz)                  | (coming soon)                                    | (coming soon)                                    |
 | [newsletter](https://bakerydao.me/newsletter/)         | [newsletter](https://bakerydao.me/newsletter/)   | [newsletter](https://bakerydao.me/newsletter)    |

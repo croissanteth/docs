@@ -5,7 +5,6 @@ description: >-
   ecosystem.
 cover: .gitbook/assets/bakerynft.png
 coverY: 0
-layout: editorial
 ---
 
 # GETTING STARTED
