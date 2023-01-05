@@ -1,10 +1,10 @@
-# Making A Post
+# 📌 POSTING
 
-The use cases for Pastry NFTs span far and wide. These baked goods enable members of the BakeryDAO to perform a variety of actions across platforms and [https://pastry.xyz/](https://pastry.xyz). One of which is making and publishing your own content onto a members portal within the website.
+The use cases for Pastry NFTs span far and wide. These baked goods enable members of the BakeryDAO to perform a variety of actions across platforms and [https://pastry.xyz/](https://pastry.xyz/). One of which is making and publishing your own content onto a members portal within the website.
 
 Posts made by Pastries will be displayed under the "Community" section, and are only accessible to members of the BakeryDAO.
 
-In order to make a post, head to [https://pastry.xyz/](https://pastry.xyz).
+In order to make a post, head to [https://pastry.xyz/](https://pastry.xyz/).
 
 Once you're there, click "LOGIN" in the top right corner.
 

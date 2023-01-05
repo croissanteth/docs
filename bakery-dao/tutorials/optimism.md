@@ -26,14 +26,14 @@ A page where you can enter in the specific connection parameters will appear, an
 Enter these items in the details, then hit “Save.”
 
 **Network Name:** Optimistic Ethereum\
-**New RPC URL:** [https://mainnet.optimism.io](https://mainnet.optimism.io)\
+**New RPC URL:** [https://mainnet.optimism.io](https://mainnet.optimism.io/)\
 **Chain ID:** 10\
 **Currency Symbol:** ETH\
-**Block Explorer URL:** [https://optimistic.etherscan.io](https://optimistic.etherscan.io)&#x20;
+**Block Explorer URL:** [https://optimistic.etherscan.io](https://optimistic.etherscan.io/)&#x20;
 
 Congrats! You should be connected to the Optimistic Ethereum network, a faster and cheaper layer two network built on top of Ethereum’s base security layer, utilizing the functions of optimistic rollups. You can do everything you wish to on this network just like the Ethereum network, at a fraction of the cost!
 
-To quickly get started with the Pastry NFT, you can then visit [Hop Exchange](https://hop.exchange), a layer two dapp which allows for nearly instant swapping of Ethereum across different optimistic rollups. You can swap mainnet ETH to Optimistic ETH and back while avoiding the wait times for bonding when using the bridge.
+To quickly get started with the Pastry NFT, you can then visit [Hop Exchange](https://hop.exchange/), a layer two dapp which allows for nearly instant swapping of Ethereum across different optimistic rollups. You can swap mainnet ETH to Optimistic ETH and back while avoiding the wait times for bonding when using the bridge.
 
 After inputting the amount of Ethereum you want to swap from mainnet to optimism in the options, continue with the swap like you would with Uniswap. The transaction will take a few minutes to go through.
 

@@ -26,7 +26,7 @@ If everything looks correct for your order, you can begin to enter the necessary
 
 The next deployment of the Bakery Shop will be a slight bit more "web3 friendly." What does this mean? The Chefs are actually working to build out a store powered by the blockchain.
 
-Items are NFTs. Like [unisocks](https://unisocks.exchange), they can be burnt to redeem the physical items and have them shipped. This will require a special checkout configuration involving private NFT metadata signed by the user that is attributed to each NFT.
+Items are NFTs. Like [unisocks](https://unisocks.exchange/), they can be burnt to redeem the physical items and have them shipped. This will require a special checkout configuration involving private NFT metadata signed by the user that is attributed to each NFT.
 
 This will let us enable purchases in various partner ERC-20 tokens, and create some interesting opportunities. The Bakery DAO will gamify the DeFi fashion scheme.
 

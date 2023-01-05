@@ -26,7 +26,7 @@
   * [🪅 SUBDOMAIN](bakery-dao/tutorials/subdomain.md)
   * [💳 CREDIT CARDS](bakery-dao/tutorials/credit-cards.md)
   * [📤 EJECTING ACCOUNTS](bakery-dao/tutorials/ejecting-accounts.md)
-  * [Making A Post](bakery-dao/tutorials/making-a-post.md)
+  * [📌 POSTING](bakery-dao/tutorials/posting.md)
 * [GOVERNANCE](bakery-dao/governance/README.md)
   * [⚡ THE DAO](bakery-dao/governance/the-dao.md)
   * [💡 PROPOSALS](bakery-dao/governance/proposals.md)

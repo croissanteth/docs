@@ -26,14 +26,14 @@ Next, you'll see a page where you can enter in the specific connection parameter
 Enter these items in the details, then hit “Save.”
 
 **Network Name:** Polygon Mainnet\
-**New RPC URL:** [https://polygon-rpc.com/](https://polygon-rpc.com)\
+**New RPC URL:** [https://polygon-rpc.com/](https://polygon-rpc.com/)\
 **Chain ID:** 137\
 **Currency Symbol:** MATIC
 
-**Block Explorer URL:** [ ](https://polygonscan.com)[https://polygonscan.com/](https://polygonscan.com)
+**Block Explorer URL:** [ ](https://polygonscan.com/)[https://polygonscan.com/](https://polygonscan.com/)
 
 Congrats! You should be connected to the Polygon Mainnet. You can do everything you wish to on this network just like the Ethereum network, at a fraction of the cost!
 
-To quickly get started with the BakeryNFT, you can then visit [Hop Exchange](https://hop.exchange), a layer two dapp which allows for nearly instant swapping of Ethereum across scaling solutions. You can swap mainnet ETH to Polygon ETH and back while avoiding the wait times for bonding when using the bridge.
+To quickly get started with the BakeryNFT, you can then visit [Hop Exchange](https://hop.exchange/), a layer two dapp which allows for nearly instant swapping of Ethereum across scaling solutions. You can swap mainnet ETH to Polygon ETH and back while avoiding the wait times for bonding when using the bridge.
 
 After inputting the amount of Ethereum you want to swap from mainnet to Polygon in the options, continue with the swap like you would with Uniswap. The transaction will take a few minutes to go through.

@@ -8,7 +8,7 @@ description: >-
 
 Want to see what the Bakery is all about, but too hesitant to buy a membership just yet? The mini pastry is for you.
 
-On the homepage of [https://pastry.xyz/](https://pastry.xyz), click in the top right where it says "Login". When it prompts you to buy a membership, select the option at the very bottom of the screen.
+On the homepage of [https://pastry.xyz/](https://pastry.xyz/), click in the top right where it says "Login". When it prompts you to buy a membership, select the option at the very bottom of the screen.
 
 ![Bakery Checkout](../.gitbook/assets/chrome\_24xrbzRsmh.png)
 

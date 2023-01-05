@@ -6,7 +6,7 @@ description: >-
 
 # 📰 NEWSLETTER
 
-On the [Pastry XYZ ](https://pastry.xyz)website, an option to sign up for the newsletter is displayed on the front page and several other places. After clicking "Join Now," you will be redirected to our newsletter app which lets NFT owners quickly and securely assign private NFT-metadata to their NFT.
+On the [Pastry XYZ ](https://pastry.xyz/)website, an option to sign up for the newsletter is displayed on the front page and several other places. After clicking "Join Now," you will be redirected to our newsletter app which lets NFT owners quickly and securely assign private NFT-metadata to their NFT.
 
 ![Pastry XYZ Homepage](../../.gitbook/assets/chrome\_mpGZTjBNRg.png)
 

@@ -8,7 +8,7 @@ coverY: 0
 
 # SMART CONTRACTS
 
-Underneath the surface, the [BakeryDAO](https://bakery.fyi) consists of more than six main contracts at this time. Some of them leverage [Unlock Protocol](https://unlock-protocol.com) for NFT memberships, some of them leverage [0xSplits](https://0xsplits.xyz) for on-chain revenue splitting, and some use subdomain DAO contracts created by [Sismo DAO](https://sismo.io).
+Underneath the surface, the [BakeryDAO](https://bakery.fyi) consists of more than six main contracts at this time. Some of them leverage [Unlock Protocol](https://unlock-protocol.com/) for NFT memberships, some of them leverage [0xSplits](https://0xsplits.xyz) for on-chain revenue splitting, and some use subdomain DAO contracts created by [Sismo DAO](https://sismo.io).
 
 ![BakeryDAO Visualized](../../.gitbook/assets/boards.png)
 
