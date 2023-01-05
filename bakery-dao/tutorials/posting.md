@@ -34,7 +34,7 @@ After clicking on "My blogs", it will look like this:
 
 ![](../../.gitbook/assets/chrome\_e9a8cOkzf9.png)
 
-Click "Create new Blog", and a template for making an article will appear.
+Click "Create new Blog", and a template for making an article will appear. For thumbnails, we recommend using a photo editor of your choice, and making a thumbnail that is 1000x1000, with a background color including the hex code: #FDC4AE. It is also advised to make the image engaging, and relevant to the content you're posting.
 
 ![](../../.gitbook/assets/chrome\_P1EZGvNwjI.png)
 
