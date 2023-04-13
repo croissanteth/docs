@@ -29,7 +29,7 @@ Users with NFTs are able to contribute to the research provided in the Bakery, c
 
 Pastry NFTs are 30-Day membership NFTs, that expire and may be renewed whenever. These are ERC-721 tokens just like any other NFT, with an added expirationDuration() value we use to determine whether users are valid members or not. Pastry NFTs are deployed on Ethereum, Optimism, and Polygon.
 
-They have an unlimited supply, are available on demand, but must be renewed in order to be a valid!
+They have an unlimited supply, are available on demand, but must be renewed in order to be valid and not change display into a moldy croissant!
 
 ![Pastry NFT Membership](.gitbook/assets/pastrynft.png)
 
@@ -62,7 +62,7 @@ The integrations simply require a keccak256 signature from a user's Ethereum add
 * You don't need a bank account to get started
 * We don't need to ask for your name, address, social security number, or any other private details
 * You don't need to purchase with a credit card (although you certainly still can if you'd like to)
-* You **** can **own your content** (send the time of your membership to your mom, or lend it on the secondary market)
+* You can **own your content** (send the time of your membership to your mom, or lend it on the secondary market)
 * You can get instantaneous memberships bound to no platform
 * There are no third-party processing fees
 * Infinite number of future integrations to await
